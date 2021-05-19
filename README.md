@@ -1,7 +1,7 @@
 # CatalogoFEMP
 
 ### En caso de querer añadir un nuevo vocabulario se deberá seguir la siguiente estructura.
-
+<br><br><br><br><br>
 ---
 layout: single
 author_profile: true 
