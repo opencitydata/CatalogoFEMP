@@ -56,24 +56,3 @@ permalink: /agenda/
  
  &nbsp;   	
  
-
-
- 
-
-
-<!--
-Más opciones:
- Recursos -> Estaciones, tiempo real, itinerarios, usuarios, usos
- Comentarios
- Valor de reutilización
- Complejidad
- Transoarencia
- Campos mínimos
- Tamaño de ciudad
- Frecuencua de actaulización mínima
- Afectado por normativa de protección de datos
- Histórico: forma de presentarlo
------------------
- el estado actual, links al repo en GitHub, links al roadmap, la posibilidad de subir issues, etc. Algo parecido a lo que solemos publicar en sitios como vocab.ciudadesabiertas.es, en vocab.linkeddata.es/datosabiertos/ o en sitios como w3id.org/devops-infra.
- -->
- 
