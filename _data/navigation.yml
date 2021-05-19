@@ -1,0 +1,148 @@
+docs:
+  - title: Vocabularios Terminados
+    children:
+      - title: "CONTRATACIÓN PÚBLICA"
+        url: /otros/#id1
+      - title: "EMISIONES"
+        url: /otros/#id2
+      - title: "EMPLEO"
+        url: /otros/#id3
+      - title: "AUTOBÚS"
+        url: /otros/#id4
+      - title: "SUBVENCIONES Y AYUDAS"
+        url: /otros/#id5
+      - title: "DIRECCIÓN POSTAL"
+        url: /otros/#id6
+      - title: "TERRITORIO"
+        url: /otros/#id7
+      - title: "ORGANISMOS"
+        url: /otros/#id8
+      - title: "SERVICIO"
+        url: /otros/#id9
+      - title: "ACCESIBILIDAD"
+        url: /otros/#id11
+      - title: "TRANSPORTE PÚBLICO TARJETA"
+        url: /otros/#id12
+      - title: "TRÁFICO TIEMPO REAL"
+        url: /otros/#id13
+
+  - title: Vocabularios sin crear
+    children:
+      - title: "PARTICIPACIÓN CIUDADANA"
+        url: /otros/#id10
+      - title: "PROTECCIÓN CIVIL"
+        url: /otros/#id14
+      - title: "SEMÁFOROS"
+        url: /otros/#id15
+      - title: "ZONAS MASCOTAS"
+        url: /otros/#id16
+      - title: "SEÑALIZACIÓN VERTICAL"
+        url: /otros/#id17
+      - title: "SISTEMA ARBITRAL DE CONSUMO"
+        url: /otros/#id18
+      - title: "INSPECCIÓN TECNICA DE EDIFICIOS"
+        url: /otros/#id19
+      - title: "VIVIENDAS DE PROTECCIÓN PÚBLICA"
+        url: /otros/#id20     
+      - title: "ALQUILER DE VIVIENDAS PÚBLICAS"
+        url: /otros/#id21
+      - title: "SECCIONES CENSALES, DISTRITOS Y BARRIOS"
+        url: /otros/#id22    
+      - title: "OBRAS DE CONSERVACIÓN Y DE INFRAESTRUCTURAS"
+        url: /otros/#id23
+      - title: "LICENCIAS DE TERRAZAS"
+        url: /otros/#id24
+      - title: "ACTUACIONES URBANISTICAS"
+        url: /otros/#id25
+      - title: "OFICINAS DE TURISMO O PUNTOS DE INFORMACIÓN"
+        url: /otros/#id26
+      - title: "RESTRICCIONES A LA CIRCULACIÓN"
+        url: /otros/#id27
+      - title: "PARQUES DE VEHÍCULOS"
+        url: /otros/#id28
+      - title: "ESTACIONES COMBUSTIBLE"
+        url: /otros/#id29
+      - title: "SEÑALIZACIÓN HORIZONTAL"
+        url: /otros/#id30     
+      - title: "TRANSPORTE URBANO"
+        url: /otros/#id31
+      - title: "APARCAMIENTO ZONAS REGULADAS"
+        url: /otros/#id32       
+      - title: "ACCIDENTALIDAD TRÁFICO"
+        url: /otros/#id33
+      - title: "ZONAS COLECTIVOS"
+        url: /otros/#id34
+      - title: "SERVICIOS COLECTIVOS"
+        url: /otros/#id35
+      - title: "QUIOSCOS"
+        url: /otros/#id36
+      - title: "ACTOS"
+        url: /otros/#id37
+      - title: "CENTROS SERVICIOS SOCIALES"
+        url: /otros/#id38
+      - title: "ATENCIÓN SOCIAL"
+        url: /otros/#id39
+      - title: "ALBERGUES CENTROS NOCHE"
+        url: /otros/#id40     
+      - title: "CONTROL SEMÁFOROS"
+        url: /otros/#id41
+      - title: "URGENCIAS"
+        url: /otros/#id42          
+      - title: "BOMBEROS"
+        url: /otros/#id43
+      - title: "PARTICIPACIÓN CIUDADANA"
+        url: /otros/#id44
+      - title: "PUESTOS DE TRABAJO"
+        url: /otros/#id45
+      - title: "NORMATIVA MUNICIPAL"
+        url: /otros/#id46
+      - title: "DECLARACIONES COMPATIBLES"
+        url: /otros/#id47
+      - title: "ENCOMIENDAS DE GESTIÓN"
+        url: /otros/#id48
+      - title: "ARRENDAMIENTOS ALQUILERES"
+        url: /otros/#id49
+      - title: "RUTAS ITINERARIOS"
+        url: /otros/#id499      
+      - title: "PLAGAS y TRATAMIENTOS"
+        url: /otros/#id50     
+      - title: "CENTROS SANITARIOS"
+        url: /otros/#id51
+      - title: "PROTECCIÓN ANIMAL"
+        url: /otros/#id52            
+      - title: "ÁREAS VERDES"
+        url: /otros/#id53
+      - title: "NIVELES POLÍNICOS"
+        url: /otros/#id54
+      - title: "CLIMATOLOGÍA"
+        url: /otros/#id55
+      - title: "ARBOLADO"
+        url: /otros/#id56
+      - title: "REGISTROS"
+        url: /otros/#id57
+      - title: "POLIGONOS INDUSTRIALES"
+        url: /otros/#id58
+      - title: "IMPUESTOS PERSONAS JURÍDICAS"
+        url: /otros/#id59
+      - title: "IMPUESTOS"
+        url: /otros/#id60      
+      - title: "ACTIVIDAD INSPECTORA"
+        url: /otros/#id61     
+      - title: "CONSUMO"
+        url: /otros/#id62
+      - title: "SALAS DE OCIO"
+        url: /otros/#id63     
+      - title: "MUSEOS, GALERÍAS Y EXPOSICIONES"
+        url: /otros/#id64
+      - title: "BIENES INMUEBLES"
+        url: /otros/#id65      
+      - title: "BIBLIOTECAS: PRESTAMOS"
+        url: /otros/#id66     
+      - title: "BIBLIOTECAS: CATÁLOGO DE LIBROS"
+        url: /otros/#id67
+      - title: "BIBLIOTECAS"
+        url: /otros/#id68   
+      - title: "MERCADILLOS"
+        url: /otros/#id69
+      - title: "CATÁLOGO DE EMPRESAS"
+        url: /otros/#id70           
