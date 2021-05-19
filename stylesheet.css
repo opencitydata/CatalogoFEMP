@@ -1,0 +1,193 @@
+.tablelines table, .tablelines td, .tablelines th {
+    border: 1px solid black; padding:10px;
+    background-color:white;
+    }
+
+
+
+table {
+    background-color: white;
+}
+
+.todojunto{    
+   background-color: #ececec;       
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+}
+
+.grid-container > div {
+  text-align: center;
+}
+
+
+.h1T{
+  color: white;    
+   font-size: 25px;
+}
+
+.h2T{   
+  color: white;    
+   font-size: 20px; 
+}
+
+.todojunto{
+   background-color: #ececec; 
+   width:100%;
+}
+
+.imagen{    
+  float: left;    
+}
+
+imagenOTROS{
+    width: 100px;
+   background-color: white; 
+}
+
+figure {
+  float: center;
+  width: 70%;
+  text-align: left;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0.5em;
+  margin: 0.5em;
+  padding: 0.5em;
+  color:black;
+}
+img.scaled {
+  width: 100%;
+}
+
+.imagen img{
+   background-color: white; 
+    margin: 0em;
+  padding: 2em;
+}
+a:link {
+  text-decoration: none;
+   color:black;
+}
+
+a:visited {
+  text-decoration: none;
+   color:black;
+}
+
+a:hover {
+  text-decoration: #939aaa;
+   color:#939aaa;
+}
+
+a:active {
+  text-decoration: none;
+   color:black;
+}
+
+body{
+ background-image:url("Iconos/webb.png");  
+}
+
+
+.container {
+  position: relative;
+  text-align: center;
+  color: black;
+  width:100%;
+}
+
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+header{
+   width:100%;
+   height:auto;
+   background:url("Iconos/image(1).png");   
+     background-color: rgba(0,0,0,0.1);
+  z-index: 2;
+}
+
+
+.headerC{
+    padding: 2.5em;     
+    margin: 2.5em;   
+}
+
+
+h1{
+ color: #ff7f50;    
+}
+
+
+
+
+
+/** navigation bar */
+
+.menu-4 {
+  text-align: left;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.menu-4 * {
+  box-sizing: border-box;
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+}
+.menu-4 li {
+  display: inline-block;
+  list-style: outside none none;
+  margin: 0 1.5em;
+  overflow: hidden;
+}
+.menu-4 a {
+  padding: 0.3em 0;
+  color: #212121;
+  position: relative;
+  display: inline-block;
+  letter-spacing: 1px;
+  margin: 0;
+  text-decoration: none;
+   font-size:15px;
+}
+.menu-4 a:before,
+.menu-4 a:after {
+  position: absolute;
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+}
+.menu-4 a:before {
+  bottom: 100%;
+  display: block;
+  height: 3px;
+  width: 100%;
+  content: "";
+  background-color: #e67e22;
+}
+.menu-4 a:after {
+  padding: 0.3em 0;
+  position: absolute;
+  bottom: 100%;
+  left: 0;
+  content: attr(data-hover);
+  color: #212121;
+  white-space: nowrap;
+}
+.menu-4 li:hover a,
+.menu-4 .current a {
+  transform: translateY(100%);
+}
+
+.left{
+ float:right;
+ text-align: right;
+}
+
+
+
+

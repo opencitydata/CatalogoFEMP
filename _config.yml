@@ -1,0 +1,56 @@
+remote_theme: "mmistakes/minimal-mistakes@4.22.0"
+#remote_theme: minimal-mistakes-jekyll
+
+layout: splash
+
+layout: single
+title: false
+plugins:
+  - jekyll-include-cache  
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+sidebar:
+  nav: "docs"
+
+include:
+  - "_pages"
+  
+#baseurl: fempcatalogo.github.io
+#baseurl: /FEMPTFG
+  
+
+
+#remote_theme: minimal-mistakes-jekyll
+#title: VocabulariosFEMP
+#layout: single
+#plugins:
+#  - jekyll-include-cache  
+
+#defaults:
+  # _pages
+ # - scope:
+   #   path: "_pages"
+  #    type: pages
+ #   values:
+  #    layout: single
+     # author_profile: true
+
+#category_archive:
+  #type: liquid
+ # path: /categories/
+#tag_archive:
+ # type: liquid
+ # path: /tags/
+
+
