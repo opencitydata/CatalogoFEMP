@@ -1,6 +1,6 @@
 # CatalogoFEMP
 
-### En caso de querer añadir un nuevo vocabulario se deberá seguir la siguiente estructura.
+### En caso de querer añadir un nuevo vocabulario se deberá añadir en la carpeta _pages el documento con la siguiente estructura.
 <br><br><br><br><br>
 ---
 layout: single
