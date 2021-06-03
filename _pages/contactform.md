@@ -28,7 +28,7 @@ permalink: /contact/
   <label class="labelForm">
     Message:
 	  <br>
-    <textarea name="message" placeholder="Your message..."></textarea>
+    <textarea name="message" placeholder="Your message..." style="height:200px"></textarea>
   </label>
 
 <div class="bc">
