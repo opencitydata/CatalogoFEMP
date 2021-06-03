@@ -18,22 +18,17 @@ permalink: /contact/
 </head>
 <body>
 
-	<form
-  action="https://formspree.io/f/xbjqoqwj"
-  method="POST"
->
-  <label>
+	<form  action="https://formspree.io/f/xbjqoqwj"  method="POST" >
+  <label class="labelForm">
     Your email:
     <input type="email" name="_replyto">
   </label>
-  <label>
+  <label class="labelForm">
     Your message:
     <textarea name="message"></textarea>
   </label>
 
-  <!-- your other form fields go here -->
-
-  <button type="submit">Send</button>
+  <button type="submit" class="buttonForm">Send</button>
 </form>
 	
 	
