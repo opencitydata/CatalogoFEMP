@@ -17,6 +17,7 @@ permalink: /contact/
   
 </head>
 <body>
+	<br><br>
 
 	<form  action="https://formspree.io/f/xbjqoqwj"  method="POST" >
   <label class="labelForm">
@@ -31,6 +32,6 @@ permalink: /contact/
   <button type="submit" class="buttonForm">Send</button>
 </form>
 	
-	
+	<br><br>
 
 </body>
