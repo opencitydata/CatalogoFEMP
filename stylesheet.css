@@ -13,7 +13,11 @@
   padding: 15px 32px;
 }
 
-
+.bc{ 
+  padding: 15px 32px;
+}
+    
+    
 .buttonForm{
     background-color: #ff7f50; 
   border: none;
