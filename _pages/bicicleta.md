@@ -25,6 +25,7 @@ permalink: /bicicleta/
   <nav class="style-4">
 <ul class="menu-4">
 	<li class="current"><a href="https://opencitydata.github.io/CatalogoFEMP/" data-hover="Catálogo">Catálogo</a></li>
+	<li class="left"><a href="/CatalogoFEMP/contact/" data-hover="Contact">Contact</a></li>
 	<li class="left"><a href="http://vocab.linkeddata.es/datosabiertos/" data-hover="Open Data Cities">Open Data Cities</a></li>
 	<li class="left"><a href="https://github.com/opencitydata/" data-hover="Open City GitHub">Open City GitHub</a></li>
 <li class="left"><a href="https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/blob/c8ef0162fb2b71e610627b19abadb89996e2af9d/README.md" data-hover="README">README</a></li>
