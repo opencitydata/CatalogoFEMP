@@ -18,7 +18,9 @@ permalink: /contact/
   
 </head>
 <body>
-
+<form action="http://formspree.io/letyrubalcabita@gmail.com"><input type="email" name="_replyto"><textarea   name="body"></textarea><input type="submit" value="Send"></form>
+	
+	
 <h3>Contact Form</h3>
 
 <div class="container">
