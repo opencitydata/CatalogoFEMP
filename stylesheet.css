@@ -6,29 +6,27 @@
 */
 
 .labelForm{
- 
   color: #212121;
-  position: relative;
   letter-spacing: 1px;
-  margin: 0;
   text-decoration: none;
-   font-size:16px;
-    
+   font-size:16px;    
 }
 
 
 .buttonForm{
     background-color: #ff7f50; 
   border: none;
-  color: white;
+  color: black;
   padding: 15px 32px;
   text-align: center;
-  text-decoration: none;
-  font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;
   -webkit-transition-duration: 0.4s; /* Safari */
   transition-duration: 0.4s;
+    
+      letter-spacing: 1px;
+  text-decoration: none;
+   font-size:16px;
 }
 
 .buttonForm:hover {
