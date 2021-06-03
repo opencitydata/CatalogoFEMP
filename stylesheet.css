@@ -6,12 +6,15 @@
 */
 
 .labelForm{
-     float: center;
-  width: 70%;
-  text-align: left;
-  font-size: medium;
-  margin: 0.5em;
-  padding: 0.5em;    
+ 
+  color: #212121;
+  position: relative;
+  display: inline-block;
+  letter-spacing: 1px;
+  margin: 0;
+  text-decoration: none;
+   font-size:15px;
+    
 }
 
 
