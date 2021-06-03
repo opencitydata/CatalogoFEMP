@@ -5,6 +5,10 @@
     }
 */
 
+img {
+  width: 100%;
+  height: auto;
+}
 
 td {
     background-color: white;
