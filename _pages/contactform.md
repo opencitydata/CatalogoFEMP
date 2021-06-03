@@ -22,10 +22,12 @@ permalink: /contact/
 	<form  action="https://formspree.io/f/xbjqoqwj"  method="POST" >
   <label class="labelForm">
     Your email:
+	  <br>
     <input type="email" name="_replyto">
   </label>
   <label class="labelForm">
     Your message:
+	  <br>
     <textarea name="message"></textarea>
   </label>
 
