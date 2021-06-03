@@ -21,14 +21,14 @@ permalink: /contact/
 
 	<form  action="https://formspree.io/f/xbjqoqwj"  method="POST" >
   <label class="labelForm">
-    Your email:
+    Email:
 	  <br>
-    <input type="email" name="_replyto">
+    <input type="email" name="_replyto" placeholder="Your email...">
   </label>
   <label class="labelForm">
-    Your message:
+    Message:
 	  <br>
-    <textarea name="message"></textarea>
+    <textarea name="message" placeholder="Your message..."></textarea>
   </label>
 
 <div class="bc">
