@@ -1,41 +1,21 @@
-<!DOCTYPE html>
-<html>
+---
+layout: splash
+classes: wide
+permalink: /contact/
+---
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-body {font-family: Arial, Helvetica, sans-serif;}
-* {box-sizing: border-box;}
-
-input[type=text], select, textarea {
-  width: 100%;
-  padding: 12px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  box-sizing: border-box;
-  margin-top: 6px;
-  margin-bottom: 16px;
-  resize: vertical;
-}
-
-input[type=submit] {
-  background-color: #04AA6D;
-  color: white;
-  padding: 12px 20px;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-}
-
-input[type=submit]:hover {
-  background-color: #45a049;
-}
-
-.container {
-  border-radius: 5px;
-  background-color: #f2f2f2;
-  padding: 20px;
-}
-</style>
+<link href="/CatalogoFEMP/stylesheet.css" rel="stylesheet"/>
+  
+  <nav class="style-4">
+<ul class="menu-4">
+	<li class="current"><a href="https://opencitydata.github.io/CatalogoFEMP/" data-hover="Catálogo">Catálogo</a></li>
+	<li class="left"><a href="http://vocab.linkeddata.es/datosabiertos/" data-hover="Open Data Cities">Open Data Cities</a></li>
+	<li class="left"><a href="https://github.com/opencitydata/" data-hover="Open City GitHub">Open City GitHub</a></li>
+	<li class="left"><a href="https://github.com/opencitydata/transporte-accidentalidad-trafico/blob/master/README.md" data-hover="README">README</a></li>
+</ul>
+	</nav>
+	<br><br>
+  
 </head>
 <body>
 
