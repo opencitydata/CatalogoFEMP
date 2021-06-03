@@ -31,7 +31,9 @@ permalink: /contact/
     <textarea name="message"></textarea>
   </label>
 
+<div class="bc">
   <button type="submit" class="buttonForm">Send</button>
+		</div>
 </form>
 	
 	<br><br><br>
