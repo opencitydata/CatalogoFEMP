@@ -34,6 +34,6 @@ permalink: /contact/
   <button type="submit" class="buttonForm">Send</button>
 </form>
 	
-	<br><br>
+	<br><br><br>
 
 </body>
