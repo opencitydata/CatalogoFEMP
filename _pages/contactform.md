@@ -11,14 +11,31 @@ permalink: /contact/
 	<li class="current"><a href="https://opencitydata.github.io/CatalogoFEMP/" data-hover="Catálogo">Catálogo</a></li>
 	<li class="left"><a href="http://vocab.linkeddata.es/datosabiertos/" data-hover="Open Data Cities">Open Data Cities</a></li>
 	<li class="left"><a href="https://github.com/opencitydata/" data-hover="Open City GitHub">Open City GitHub</a></li>
-	<li class="left"><a href="https://github.com/opencitydata/transporte-accidentalidad-trafico/blob/master/README.md" data-hover="README">README</a></li>
 </ul>
 	</nav>
 	<br><br>
   
 </head>
 <body>
-<form action="http://formspree.io/letyrubalcabita@gmail.com"><input type="email" name="_replyto"><textarea   name="body"></textarea><input type="submit" value="Send"></form>
+
+	<form
+  action="https://formspree.io/f/xbjqoqwj"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+
+  <!-- your other form fields go here -->
+
+  <button type="submit">Send</button>
+</form>
+	
 	
 	
 <h3>Contact Form</h3>
