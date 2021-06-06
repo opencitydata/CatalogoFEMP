@@ -76,7 +76,6 @@ classes: wide
 			</figure>
 			  </div>
 		 </div>
-
 		<div class="col-6 col-md-4">
 			 <div class="item2">
 			  <figure class="imagen">
