@@ -67,8 +67,6 @@ classes: wide
 			</figure>
 			  </div>
 		</div>
-
-
 		<div class="col-6 col-md-4">
 			 <div class="item1">
 			  <figure class="imagen">
@@ -88,7 +86,6 @@ classes: wide
 			</figure>
 			  </div>
 		 </div>
-
 		<div class="col-6 col-md-4">
 			 <div class="item3">
 			  <figure class="imagen">
@@ -107,8 +104,6 @@ classes: wide
 			</figure>
 			  </div>  
 		</div>
-
-
 		<div class="col-6 col-md-4">  
 			   <div class="item1">
 			 <figure class="imagen">
@@ -141,9 +136,6 @@ classes: wide
 			</figure>
 			  </div>
 		</div>
-
-
-
 		<div class="col-6 col-md-4">  
 			   <div class="item1">
 			<figure class="imagen">
@@ -175,9 +167,6 @@ classes: wide
 			</figure>
 			  </div>
 		</div>
-
-
-
 <div class="col-6 col-md-4">
  <div class="item1">
  <figure class="imagen">
@@ -186,7 +175,6 @@ classes: wide
 </figure>
   </div>
 		 </div>
-
 		 <div class="col-6 col-md-4">
  <div class="item2">
  <figure class="imagen">
@@ -195,7 +183,6 @@ classes: wide
 </figure>
   </div>
 		 </div>
-
 		 <div class="col-6 col-md-4">
  <div class="item3">
  <figure class="imagen">
@@ -203,8 +190,7 @@ classes: wide
     <figcaption>Puntos de acceso WIFI públicos</figcaption></a>
 </figure>
   </div>
-		 </div>
-		 
+		 </div>		
 <div class="col-6 col-md-4">
  <div class="item4">
  <figure class="imagen">
@@ -213,9 +199,6 @@ classes: wide
 </figure>
   </div>
 </div>
-
-
-
 <div class="col-6 col-md-4">
  <div class="item1">
 <figure class="imagen">
@@ -224,7 +207,6 @@ classes: wide
 </figure>
   </div>
 		 </div>
-
 		 <div class="col-6 col-md-4">
  <div class="item2">
 <figure class="imagen">
@@ -233,7 +215,6 @@ classes: wide
 </figure>
   </div>
 		 </div>
-
 <div class="col-6 col-md-4">
  <div class="item3">
 <figure class="imagen">
@@ -250,9 +231,6 @@ classes: wide
 </figure>
   </div>
 </div>
-
-
-
   <div class="col-6 col-md-4">
  <div class="item1">
 <figure class="imagen">
@@ -285,8 +263,6 @@ classes: wide
 </figure>
   </div>
 </div>
-
-
   <div class="col-6 col-md-4">
  <div class="item1">
 <figure class="imagen">
@@ -303,7 +279,6 @@ classes: wide
 </figure>
   </div>
 		 </div>
-
 		   <div class="col-6 col-md-4">
  <div class="item3">
 <figure class="imagen">
@@ -320,7 +295,6 @@ classes: wide
 </figure>
   </div>  
 </div>
-
   <div class="col-6 col-md-4">
  <div class="item1">
 <figure class="imagen">
@@ -329,7 +303,6 @@ classes: wide
 </figure>
   </div>
 		 </div>
-
   <div class="col-6 col-md-4">
  <div class="item2">
 <figure class="imagen">
@@ -338,7 +311,6 @@ classes: wide
 </figure>
   </div>
 		 </div>
-
 		   <div class="col-6 col-md-4">
  <div class="item3">
 <figure class="imagen">
@@ -355,7 +327,6 @@ classes: wide
 </figure>
   </div>  
 </div>
-
   <div class="col-6 col-md-4">  
    <div class="item1">
 <figure class="imagen">
@@ -364,7 +335,6 @@ classes: wide
 </figure>
   </div>
 		 </div>
-
 		   <div class="col-6 col-md-4">
  <div class="item2">
 <figure class="imagen">
@@ -373,7 +343,6 @@ classes: wide
 </figure>
   </div>
 		 </div>
-
 		   <div class="col-6 col-md-4">
  <div class="item3">
 <figure class="imagen">
@@ -382,7 +351,6 @@ classes: wide
 </figure>
   </div>
 		 </div>
-
 		   <div class="col-6 col-md-4">
  <div class="item4">
 <figure class="imagen">
@@ -399,11 +367,8 @@ classes: wide
 </figure>
   </div>
 </div>
-
 	</div>
 	</div>
-
-
 </div>
 
 </body>
