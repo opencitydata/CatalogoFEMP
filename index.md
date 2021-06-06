@@ -36,7 +36,7 @@ classes: wide
 <div class="container">
 	<br>
 	 <div class="row">
-  		<div class="col-6 col-md-4">  
+  		<div class="col-6 col-md-3">  
 			   <div class="item1">
 			  <figure class="imagen">
 			  <a href="https://opencitydata.github.io/CatalogoFEMP/agenda/"><img src="Iconos/agendamunicipal.png" alt="Agenda municipal alcaldía y personal directivo" width="30"/>  
@@ -44,7 +44,7 @@ classes: wide
 			</figure>  
 			  </div>
 		 </div>  
-		  <div class="col-6 col-md-4">
+		  <div class="col-6 col-md-3">
 			 <div class="item2">
 			  <figure class="imagen">
 			    <a href="https://opencitydata.github.io/CatalogoFEMP/agendaactividades/"><img src="Iconos/agendaactividades.png" alt="Agenda" width="20"/> 
@@ -52,7 +52,7 @@ classes: wide
 			</figure> 
 			  </div>
 		 </div>
-		<div class="col-6 col-md-4">
+		<div class="col-6 col-md-3">
 			 <div class="item3">
 			  <figure class="imagen">
 			   <a href="https://opencitydata.github.io/CatalogoFEMP/aparcamiento/"><img src="Iconos/aparcamientos.png" alt="Aparcamiento" width="20" />
@@ -60,7 +60,7 @@ classes: wide
 			</figure>
 			  </div>
 		 </div>
-		<div class="col-6 col-md-4">  
+		<div class="col-6 col-md-3">  
 			  <div class="item4">
 			  <figure class="imagen">
 			   <a href="https://opencitydata.github.io/CatalogoFEMP/avisos/"><img src="Iconos/avisos.png" alt="Avisos" width="20"/>
@@ -68,7 +68,7 @@ classes: wide
 			</figure>
 			  </div>
 		</div>
-		<div class="col-6 col-md-4">
+		<div class="col-6 col-md-3">
 			 <div class="item1">
 			  <figure class="imagen">
 			   <a href="https://opencitydata.github.io/CatalogoFEMP/bicicleta/"><img src="Iconos/bicicleta.png" alt="Bicicleta" width="50"/> 
@@ -77,7 +77,7 @@ classes: wide
 			</figure>
 			  </div>
 		 </div>
-		<div class="col-6 col-md-4">
+		<div class="col-6 col-md-3">
 			 <div class="item2">
 			  <figure class="imagen">
 			  <a href="https://opencitydata.github.io/CatalogoFEMP/calidadaire/"><img src="Iconos/calidadaire.png" alt="Calidad aire" width="40"/>
@@ -86,7 +86,7 @@ classes: wide
 			</figure>
 			  </div>
 		 </div>
-		<div class="col-6 col-md-4">
+		<div class="col-6 col-md-3">
 			 <div class="item3">
 			  <figure class="imagen">
 			  <a href="https://opencitydata.github.io/CatalogoFEMP/callejero/"> <img src="Iconos/callejero.png" alt="Callejero oficial" width="35"/>
@@ -95,7 +95,7 @@ classes: wide
 			</figure>
 			  </div>
 		 </div>
-		<div class="col-6 col-md-4">
+		<div class="col-6 col-md-3">
 			 <div class="item4">
 			  <figure class="imagen">
 			  <a href="https://opencitydata.github.io/CatalogoFEMP/censolocales/"> <img src="Iconos/censo.png" alt="Censo de locales" width="40"/>
@@ -104,7 +104,7 @@ classes: wide
 			</figure>
 			  </div>  
 		</div>
-		<div class="col-6 col-md-4">  
+		<div class="col-6 col-md-3">  
 			   <div class="item1">
 			 <figure class="imagen">
 			 <a href="https://opencitydata.github.io/CatalogoFEMP/contaminacionacustica/"><img src="Iconos/contaminacion.png" alt="Contaminación" width="50"/>
@@ -112,7 +112,7 @@ classes: wide
 			</figure>
 			  </div>
 		 </div>
-		<div class="col-6 col-md-4">
+		<div class="col-6 col-md-3">
 			 <div class="item2">
 			 <figure class="imagen">
 			 <a href="https://opencitydata.github.io/CatalogoFEMP/contrataciones/"><img src="Iconos/contrataciones.png" alt="Contrataciones" width="50"/>
@@ -120,7 +120,7 @@ classes: wide
 			</figure>
 			  </div>
 		 </div>
-		<div class="col-6 col-md-4">
+		<div class="col-6 col-md-3">
 			 <div class="item3">
 			 <figure class="imagen">
 			<a href="https://opencitydata.github.io/CatalogoFEMP/convenios/"> <img src="Iconos/convenios.png" alt="Convenios" width="50"/>
@@ -128,7 +128,7 @@ classes: wide
 			</figure>
 			  </div>
 		 </div>
-		<div class="col-6 col-md-4">
+		<div class="col-6 col-md-3">
 			  <div class="item4">
 			<figure class="imagen">
 			<a href="https://opencitydata.github.io/CatalogoFEMP/deudapublica/"> <img src="Iconos/deuda.png" alt="Deuda" width="40"/>
@@ -136,14 +136,14 @@ classes: wide
 			</figure>
 			  </div>
 		</div>
-		<div class="col-6 col-md-4">  
+		<div class="col-6 col-md-3">  
 			   <div class="item1">
 			<figure class="imagen">
 			<a href="https://opencitydata.github.io/CatalogoFEMP/equipamiento/"><img src="Iconos/equipamiento.png" alt="Equipamientos" width="35"/> <figcaption>Equipamientos municipales</figcaption></a>
 			</figure>
 			  </div>
 		 </div>
-		<div class="col-6 col-md-4">
+		<div class="col-6 col-md-3">
 			 <div class="item2">
 			<figure class="imagen">
 			<a href="https://opencitydata.github.io/CatalogoFEMP/trafico/"><img src="Iconos/trafico.png" alt="Trafico" width="40"/>
@@ -151,7 +151,7 @@ classes: wide
 			</figure>
 			</div>
 		 </div>
-		<div class="col-6 col-md-4">
+		<div class="col-6 col-md-3">
 			 <div class="item3">
 			 <figure class="imagen">
 			 <a href="https://opencitydata.github.io/CatalogoFEMP/instalacionesdeportiva/"> <img src="Iconos/deporte.png" alt="InstalacionesDeportivas" width="50"/>
@@ -159,7 +159,7 @@ classes: wide
 			</figure>
 			  </div>
 		 </div>
-		<div class="col-6 col-md-4">
+		<div class="col-6 col-md-3">
 			 <div class="item4">
 			 <figure class="imagen">
 			<a href="https://opencitydata.github.io/CatalogoFEMP/lugarinteres/"> <img src="Iconos/lugar.png" alt="LugarInteres" width="50"/>
@@ -167,7 +167,7 @@ classes: wide
 			</figure>
 			  </div>
 		</div>
-<div class="col-6 col-md-4">
+<div class="col-6 col-md-3">
  <div class="item1">
  <figure class="imagen">
 <a href="https://opencitydata.github.io/CatalogoFEMP/poblacion/"><img src="Iconos/padron.png" alt="PadronMunicipal" width="50"/>
@@ -175,7 +175,7 @@ classes: wide
 </figure>
   </div>
 		 </div>
-		 <div class="col-6 col-md-4">
+		 <div class="col-6 col-md-3">
  <div class="item2">
  <figure class="imagen">
 <a href="https://opencitydata.github.io/CatalogoFEMP/presupuesto/"><img src="Iconos/presupuesto.png" alt="PresupuestoMunicipal" width="40"/>
@@ -183,7 +183,7 @@ classes: wide
 </figure>
   </div>
 		 </div>
-		 <div class="col-6 col-md-4">
+		 <div class="col-6 col-md-3">
  <div class="item3">
  <figure class="imagen">
 <a href="https://opencitydata.github.io/CatalogoFEMP/puntoacceso/"> <img src="Iconos/puntoacceso.png" alt="PuntoAcceso" width="50"/>
@@ -191,7 +191,7 @@ classes: wide
 </figure>
   </div>
 		 </div>		
-<div class="col-6 col-md-4">
+<div class="col-6 col-md-3">
  <div class="item4">
  <figure class="imagen">
 <a href="https://opencitydata.github.io/CatalogoFEMP/transporte/"> <img src="Iconos/transporte.png" alt="TransportePublico" width="40"/>
@@ -199,7 +199,7 @@ classes: wide
 </figure>
   </div>
 </div>
-<div class="col-6 col-md-4">
+<div class="col-6 col-md-3">
  <div class="item1">
 <figure class="imagen">
 <a href="https://opencitydata.github.io/CatalogoFEMP/cartografia/"><img src="Iconos/cartografia.png" alt="Cartografía" width="30"/>
@@ -207,7 +207,7 @@ classes: wide
 </figure>
   </div>
 		 </div>
-		 <div class="col-6 col-md-4">
+		 <div class="col-6 col-md-3">
  <div class="item2">
 <figure class="imagen">
 <a href="https://opencitydata.github.io/CatalogoFEMP/accidentes/"><img src="Iconos/accidentes.png" alt="AccidentesTrafico" width="40"/>
@@ -215,7 +215,7 @@ classes: wide
 </figure>
   </div>
 		 </div>
-<div class="col-6 col-md-4">
+<div class="col-6 col-md-3">
  <div class="item3">
 <figure class="imagen">
 <a href="https://opencitydata.github.io/CatalogoFEMP/contenedores/"><img src="Iconos/reciclar.png" alt="ContenedoresReciclaje" width="40"/>
@@ -223,7 +223,7 @@ classes: wide
 </figure>
   </div>
 		 </div>
-  <div class="col-6 col-md-4">
+  <div class="col-6 col-md-3">
    <div class="item4">
 <figure class="imagen">
 <a href="https://opencitydata.github.io/CatalogoFEMP/registro/"><img src="Iconos/registro.png" alt="RegistroAsociaciones" width="40"/>
@@ -231,7 +231,7 @@ classes: wide
 </figure>
   </div>
 </div>
-  <div class="col-6 col-md-4">
+  <div class="col-6 col-md-3">
  <div class="item1">
 <figure class="imagen">
 <a href="https://opencitydata.github.io/CatalogoFEMP/alojamiento/"><img src="Iconos/alojamientos.png" alt="Alojamientos" width="40"/>
@@ -239,7 +239,7 @@ classes: wide
 </figure>
   </div>
 		 </div>
-  <div class="col-6 col-md-4">
+  <div class="col-6 col-md-3">
  <div class="item2">
 <figure class="imagen">
 <a href="https://opencitydata.github.io/CatalogoFEMP/agua/"><img src="Iconos/agua.png" alt="CalidadAgua" width="40"/>
@@ -247,7 +247,7 @@ classes: wide
 </figure>
   </div>
 		 </div>
-  <div class="col-6 col-md-4">
+  <div class="col-6 col-md-3">
  <div class="item3">
 <figure class="imagen">
  <a href="https://opencitydata.github.io/CatalogoFEMP/carrilbici/"><img src="Iconos/carrilbici.png" alt="CarrilesBici" width="40"/>
@@ -255,7 +255,7 @@ classes: wide
 </figure>
   </div>
 		 </div>
-  <div class="col-6 col-md-4">
+  <div class="col-6 col-md-3">
  <div class="item4">
 <figure class="imagen">
  <a href="https://opencitydata.github.io/CatalogoFEMP/alumbrado/"> <img src="Iconos/alumbrado.png" alt="Alumbrado" width="40"/>
@@ -263,7 +263,7 @@ classes: wide
 </figure>
   </div>
 </div>
-  <div class="col-6 col-md-4">
+  <div class="col-6 col-md-3">
  <div class="item1">
 <figure class="imagen">
 <a href="https://opencitydata.github.io/CatalogoFEMP/subvenciones/"><img src="Iconos/subvenciones.png" alt="Subvenciones" width="40"/>
@@ -271,7 +271,7 @@ classes: wide
 </figure>
   </div>
 		 </div>
-  <div class="col-6 col-md-4">
+  <div class="col-6 col-md-3">
  <div class="item2">
 <figure class="imagen">
 <a href="https://opencitydata.github.io/CatalogoFEMP/zonainfantil/"><img src="Iconos/zonainfantil.png" alt="ZonaInfantil" width="40"/>
@@ -279,7 +279,7 @@ classes: wide
 </figure>
   </div>
 		 </div>
-		   <div class="col-6 col-md-4">
+		   <div class="col-6 col-md-3">
  <div class="item3">
 <figure class="imagen">
  <a href="https://opencitydata.github.io/CatalogoFEMP/censoempresa/"> <img src="Iconos/censoempresas.png" alt="CensoEmpresas" width="40"/> 
@@ -287,7 +287,7 @@ classes: wide
 </figure>
   </div>
 		 </div>
-  <div class="col-6 col-md-4">
+  <div class="col-6 col-md-3">
  <div class="item4">
 <figure class="imagen">
 <a href="https://opencitydata.github.io/CatalogoFEMP/facturas/"> <img src="Iconos/facturas.png" alt="Facturas" width="40"/>
@@ -295,7 +295,7 @@ classes: wide
 </figure>
   </div>  
 </div>
-  <div class="col-6 col-md-4">
+  <div class="col-6 col-md-3">
  <div class="item1">
 <figure class="imagen">
  <a href="https://opencitydata.github.io/CatalogoFEMP/censovehiculos/"><img src="Iconos/censovehiculos.png" alt="CensoVehiculos" width="40"/>
@@ -303,7 +303,7 @@ classes: wide
 </figure>
   </div>
 		 </div>
-  <div class="col-6 col-md-4">
+  <div class="col-6 col-md-3">
  <div class="item2">
 <figure class="imagen">
  <a href="https://opencitydata.github.io/CatalogoFEMP/inventario/"><img src="Iconos/inventario.png" alt="inventarioBienes" width="40"/>
@@ -311,7 +311,7 @@ classes: wide
 </figure>
   </div>
 		 </div>
-		   <div class="col-6 col-md-4">
+		   <div class="col-6 col-md-3">
  <div class="item3">
 <figure class="imagen">
  <a href="https://opencitydata.github.io/CatalogoFEMP/parque/"> <img src="Iconos/parque.png" alt="ParquesyJardines" width="40"/> 
@@ -319,7 +319,7 @@ classes: wide
 </figure>
   </div>
 		 </div>
-  <div class="col-6 col-md-4">
+  <div class="col-6 col-md-3">
  <div class="item4">
 <figure class="imagen">
  <a href="https://opencitydata.github.io/CatalogoFEMP/rpt/"> <img src="Iconos/rpt.png" alt="RPT" width="40"/>
@@ -327,7 +327,7 @@ classes: wide
 </figure>
   </div>  
 </div>
-  <div class="col-6 col-md-4">  
+  <div class="col-6 col-md-3">  
    <div class="item1">
 <figure class="imagen">
  <a href="https://opencitydata.github.io/CatalogoFEMP/licencias/"><img src="Iconos/licencias.png" alt="LicenciasUrbanisticas" width="40"/>
@@ -335,7 +335,7 @@ classes: wide
 </figure>
   </div>
 		 </div>
-		   <div class="col-6 col-md-4">
+		   <div class="col-6 col-md-3">
  <div class="item2">
 <figure class="imagen">
  <a href="https://opencitydata.github.io/CatalogoFEMP/residuos/"><img src="Iconos/residuos.png" alt="GestionResiduos" width="40"/>
@@ -343,7 +343,7 @@ classes: wide
 </figure>
   </div>
 		 </div>
-		   <div class="col-6 col-md-4">
+		   <div class="col-6 col-md-3">
  <div class="item3">
 <figure class="imagen">
  <a href="https://opencitydata.github.io/CatalogoFEMP/fuentes/"> <img src="Iconos/fuentes.png" alt="FuentesAgua" width="40"/>
@@ -351,7 +351,7 @@ classes: wide
 </figure>
   </div>
 		 </div>
-		   <div class="col-6 col-md-4">
+		   <div class="col-6 col-md-3">
  <div class="item4">
 <figure class="imagen">
  <a href="https://opencitydata.github.io/CatalogoFEMP/sanciones/"> <img src="Iconos/sanciones.png" alt="SancionesMultas" width="40"/>
@@ -359,7 +359,7 @@ classes: wide
 </figure>
   </div>
 		 </div>
-		   <div class="col-6 col-md-4">
+		   <div class="col-6 col-md-3">
   <div class="item5">
 <figure class="imagen">
 <a href="https://opencitydata.github.io/CatalogoFEMP/otros/"> <img src="Iconos/otros.png" alt="OTROS" width="40"/>
