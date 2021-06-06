@@ -23,7 +23,7 @@ permalink: /contact/
   <label class="labelForm">
     Email:
 	  <br>
-    <input type="email" name="_replyto" placeholder="Your email...">
+    <input type="email" name="_replyto" placeholder="Your email..." style="height:50px>
   </label>
   <label class="labelForm">
     Message:
