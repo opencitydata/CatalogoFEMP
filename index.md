@@ -34,7 +34,9 @@ classes: wide
 <div class="todojunto">
 	
 <div class="container">
-	 <div class="row">		 
+	
+	 <div class="row">
+		 <br>
   		<div class="col-6 col-md-4">  
 			   <div class="item1">
 			  <figure class="imagen">
@@ -367,6 +369,7 @@ classes: wide
   </div>
 </div>
 	</div>
+	<br>
 	</div>
 </div>
 
