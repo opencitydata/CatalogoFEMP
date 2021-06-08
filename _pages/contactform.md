@@ -8,7 +8,6 @@ permalink: /contact/
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
-    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i">
     <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abril+Fatface:400">
     
    
@@ -47,7 +46,7 @@ permalink: /contact/
 		  
 		   <div class="row">
 			 <div class="col-6 col-md-4">
-				 
+			<img src="/Iconos/location.png" alt="adress"/>
 				<br>
 				 <h5 class="subtitulo colorgris"> Address </h5>
 				 <br>
@@ -56,7 +55,7 @@ permalink: /contact/
 			  </div>
 			   
 			   <div class="col-6 col-md-4">
-				 <i class="fa fa-phone w3-xxxlarge" aria-hidden="true" ></i>
+			<img src="/Iconos/phone.png" alt="phone"/>
 				   <br>
 				   <h5 class="subtitulo colorgris"> phone </h5>
 				   <br>
@@ -64,7 +63,8 @@ permalink: /contact/
 			  </div>
 			   
 			   
-			   <div class="col-6 col-md-4">
+			   <div class="col-6 col-md-4">				   
+			<img src="/Iconos/email.png" alt="email"/>
 				 <br>
 				   <h5 class="subtitulo colorgris"> email </h5>
 				   <br>
