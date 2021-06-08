@@ -66,7 +66,7 @@ permalink: /contact/
 			   
 			   
 			   <div class="col-6 col-md-4">				   
-			<img src="/CatalogoFEMP/Iconos/email.png" alt="email" width="70"/>
+			<img src="/CatalogoFEMP/Iconos/email.png" alt="email" width="100"/>
 				 <br>
 				   <h5 class="subtitulo colorgris"> email </h5>
 				   <br>
