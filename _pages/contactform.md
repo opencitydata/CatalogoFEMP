@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 <head>
 <link href="/CatalogoFEMP/stylesheet.css" rel="stylesheet"/>
-  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> 
   <nav class="style-4">
 <ul class="menu-4">
 	<li class="current"><a href="https://opencitydata.github.io/CatalogoFEMP/" data-hover="Catálogo">Catálogo</a></li>
@@ -16,12 +16,11 @@ permalink: /contact/
 	<br><br>
   
 </head>
-<body>
-	<br><br>
-Oscar Corcho   
+
+**Oscar Corcho**  
 	
 
-**Ontology Engineering Group**   
+Ontology Engineering Group  
 	
 
 Departamento de Inteligencia Artificial   
@@ -42,7 +41,13 @@ Campus de Montegancedo, sn
 Tel: +34 910672911   
 	
 	
-	<!-- /**
+<br><br>
+
+
+
+
+
+<!-- /**
 	<form  action="https://formspree.io/f/..."  method="POST" >
   <label class="labelForm">
     Email:
@@ -62,5 +67,4 @@ Tel: +34 910672911
 	
 	<br>
 	**/-->
-<br><br>
-</body>
+	
