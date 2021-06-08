@@ -46,7 +46,7 @@ permalink: /contact/
 		  
 		   <div class="row">
 			 <div class="col-6 col-md-4">
-			<img src="/CatalogoFEMP/Iconos/location.png" alt="adress"/>
+			<img src="/CatalogoFEMP/Iconos/location.png" alt="adress" width="30"/>
 				<br>
 				 <h5 class="subtitulo colorgris"> Address </h5>
 				 <br>
@@ -55,7 +55,7 @@ permalink: /contact/
 			  </div>
 			   
 			   <div class="col-6 col-md-4">
-			<img src="/CatalogoFEMP/Iconos/phone.png" alt="phone"/>
+			<img src="/CatalogoFEMP/Iconos/phone.png" alt="phone" width="30"/>
 				   <br>
 				   <h5 class="subtitulo colorgris"> phone </h5>
 				   <br>
@@ -64,7 +64,7 @@ permalink: /contact/
 			   
 			   
 			   <div class="col-6 col-md-4">				   
-			<img src="/CatalogoFEMP/Iconos/email.png" alt="email"/>
+			<img src="/CatalogoFEMP/Iconos/email.png" alt="email" width="30"/>
 				 <br>
 				   <h5 class="subtitulo colorgris"> email </h5>
 				   <br>
