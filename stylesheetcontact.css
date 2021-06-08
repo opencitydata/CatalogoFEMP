@@ -1,7 +1,6 @@
 .row h2{
   text-align: center;
   text-transform: uppercase;
-  font-weight: 500;
   color: #212121;
   position: relative;
   display: inline-block;
@@ -16,13 +15,13 @@
 }
 
 .colorgris{
-  color: #bdbdbd; 
+  color: #b8b8b8; 
 }
 
 .subtitulo{  
   text-align: center;
   text-transform: uppercase;  
-  color: #bdbdbd;   
+  color: #b8b8b8;   
   letter-spacing: 1px;
    font-size:25px;  
 }
