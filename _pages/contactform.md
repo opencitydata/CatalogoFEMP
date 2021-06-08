@@ -15,8 +15,7 @@ permalink: /contact/
 <link href="/CatalogoFEMP/stylesheetcontact.css" rel="stylesheet"/>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 	  
-<link href="/CatalogoFEMP/stylesheet.css" rel="stylesheet"/>
-	  
+<link href="/CatalogoFEMP/stylesheet.css" rel="stylesheet"/>	  
 	  <nav class="style-4">
 <ul class="menu-4">
 	<li class="current"><a href="https://opencitydata.github.io/CatalogoFEMP/" data-hover="Catálogo">Catálogo</a></li>
@@ -57,7 +56,7 @@ permalink: /contact/
 			  </div>
 			   
 			   <div class="col-6 col-md-4">
-				 <i class="fa fa-phone" aria-hidden="true" ></i>
+				 <i class="fa fa-phone w3-xxxlarge" aria-hidden="true" ></i>
 				   <br>
 				   <h5 class="subtitulo colorgris"> phone </h5>
 				   <br>
