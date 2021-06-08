@@ -20,15 +20,9 @@ permalink: /contact/
 <i class="fa fa-address-book" aria-hidden="true"></i>**Oscar Corcho**  
 	
 
-Ontology Engineering Group  
-	
-
+Ontology Engineering Group 	
 Departamento de Inteligencia Artificial   
-	
-
 ETSI Informáticos   
-	
-
 Universidad Politécnica de Madrid   
 	
 
