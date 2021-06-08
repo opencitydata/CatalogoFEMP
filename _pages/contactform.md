@@ -21,7 +21,7 @@ permalink: /contact/
 Oscar Corcho   
 	
 
-Ontology Engineering Group   
+**Ontology Engineering Group**   
 	
 
 Departamento de Inteligencia Artificial   
