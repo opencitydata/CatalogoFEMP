@@ -14,6 +14,10 @@
   margin: 0 272px;
 }
 
+.row{  
+  text-align: center;
+}
+
 .colorgris{
   color: #b8b8b8;   
   text-align: center;
