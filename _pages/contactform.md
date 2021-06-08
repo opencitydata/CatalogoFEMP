@@ -18,8 +18,32 @@ permalink: /contact/
 </head>
 <body>
 	<br><br>
+Oscar Corcho   
+	
 
-	<form  action="https://formspree.io/f/xbjqoqwj"  method="POST" >
+Ontology Engineering Group   
+	
+
+Departamento de Inteligencia Artificial   
+	
+
+ETSI Informáticos   
+	
+
+Universidad Politécnica de Madrid   
+	
+
+Campus de Montegancedo, sn   
+	
+
+28660 Boadilla del Monte, Madrid   
+	
+
+Tel: +34 910672911   
+	
+	
+	<!-- /**
+	<form  action="https://formspree.io/f/..."  method="POST" >
   <label class="labelForm">
     Email:
 	  <br>
@@ -36,6 +60,7 @@ permalink: /contact/
 		</div>
 </form>
 	
-	<br><br><br>
-
+	<br>
+	**/-->
+<br><br>
 </body>
