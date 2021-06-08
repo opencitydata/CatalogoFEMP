@@ -13,6 +13,7 @@ permalink: /contact/
     
    
 <link href="/CatalogoFEMP/stylesheetcontact.css" rel="stylesheet"/>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 	  
 <link href="/CatalogoFEMP/stylesheet.css" rel="stylesheet"/>
 	  
@@ -21,17 +22,77 @@ permalink: /contact/
 	<li class="current"><a href="https://opencitydata.github.io/CatalogoFEMP/" data-hover="Catálogo">Catálogo</a></li>
 	<li class="left"><a href="http://vocab.linkeddata.es/datosabiertos/" data-hover="Open Data Cities">Open Data Cities</a></li>
 	<li class="left"><a href="https://github.com/opencitydata/" data-hover="Open City GitHub">Open City GitHub</a></li>	
-</ul>
-	</nav>
+</ul>	</nav>
 	<br><br>
 	  
 	  
   </head>
-  <body class="u-body">
-    <section class="u-align-center u-clearfix u-section-1" id="carousel_d2e6">
-      <div class="u-clearfix u-sheet u-sheet-1">
-        <div class="u-clearfix u-layout-wrap u-layout-wrap-1">
-          <div class="u-layout">
+  <body class="bodyc">
+	
+	  <div class="container">
+		
+		 <div class="row">
+			 <h2> Contact us </h2>
+		  </div>
+		  
+		 
+		   <div class="row colorgris">
+			   <br>
+			 <span style="font-weight: 700; text-align: center; color: ">Oscar Corcho</span>
+			   <br>
+                        <br>Ontology Engineering Group&nbsp;<br>Departamento de Inteligencia Artificial<br>ETSI Informáticos<br>Universidad Politécnica de Madrid
+			   <br>
+		  </div>
+		  
+		  
+		  
+		   <div class="row">
+			 <div class="col-6 col-md-4">
+				 
+				<br>
+				 <h5 class="subtitulo colorgris"> Address </h5>
+				 <br>
+				 <p> Campus de Montegancedo, sn, 28660 Boadilla del Monte, Madrid </p>
+				 <br>
+			  </div>
+			   
+			   <div class="col-6 col-md-4">
+				 <i class="fa fa-phone" aria-hidden="true" ></i>
+				   <br>
+				   <h5 class="subtitulo colorgris"> phone </h5>
+				   <br>
+				 <p> +34 910672911 </p>
+			  </div>
+			   
+			   
+			   <div class="col-6 col-md-4">
+				 <br>
+				   <h5 class="subtitulo colorgris"> email </h5>
+				   <br>
+				 <p> oscar.corcho@upm.es </p>
+			  </div>
+			   
+		 </div>
+		  
+	  </div>
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+    <section class="todocentrado u-clearfix u-section-1">
+      <div class="todocentrado u-sheet-1">
+        <div class="todocentrado todojuntito u-layout-wrap-1">
+          <div class="todojuntito">
             <div class="u-layout-col">
               <div class="u-size-30">
                 <div class="u-layout-row">
