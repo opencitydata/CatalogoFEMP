@@ -49,28 +49,12 @@ permalink: /contact/
 			   </div>
 		  </div>
 		
-		  
+		
 		   <div class="row">
 			   <br>
 			 <div class="col-6 col-md-4">
 			<img src="/CatalogoFEMP/Iconos/location.png" alt="adress" width="70"/>
-			  </div>
-			   
-			   <div class="col-6 col-md-4">
-			<img src="/CatalogoFEMP/Iconos/phone.png" alt="phone" width="70"/>
-			  </div>
-			   
-			   
-			   <div class="col-6 col-md-4">				   
-			<img src="/CatalogoFEMP/Iconos/email.png" alt="email" width="120"/>
-			  </div>
-			   
-		 </div>
-		  
-		  <div class="row">
-			   <br>
-			 <div class="col-6 col-md-4">
-				<br>
+				 <br>
 				 <h5 class="subtitulo colorgris"> Address </h5>
 				 <br>
 				 <p> Campus de Montegancedo, sn, 28660 Boadilla del Monte, Madrid </p>
@@ -78,7 +62,8 @@ permalink: /contact/
 			  </div>
 			   
 			   <div class="col-6 col-md-4">
-				   <br>
+			<img src="/CatalogoFEMP/Iconos/phone.png" alt="phone" width="70"/>
+				    <br>
 				   <h5 class="subtitulo colorgris"> phone </h5>
 				   <br>
 				 <p> +34 910672911 </p>
@@ -86,13 +71,16 @@ permalink: /contact/
 			   
 			   
 			   <div class="col-6 col-md-4">				   
-				 <br>
+			<img src="/CatalogoFEMP/Iconos/email.png" alt="email" width="120"/>
+				   <br>
+				   <br>
 				   <h5 class="subtitulo colorgris"> email </h5>
 				   <br>
 				 <p> oscar.corcho@upm.es </p>
 			  </div>
 			   
 		 </div>
+		  
 		  
 		  
 	  </div>  
