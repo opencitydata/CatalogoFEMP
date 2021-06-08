@@ -34,16 +34,17 @@ permalink: /contact/
 		  </div>
 		  
 		 
-		   <div class="row colorgris">
+		   <div class="row">
+			   <div class="colorgris">
 			   <br>
-			 <span style="font-weight: 700; text-align: center; color: ">Oscar Corcho</span>
+			 <span style="font-weight: 700; text-align: center;" >Oscar Corcho</span>
 			   <br>
                         <br>Ontology Engineering Group&nbsp;<br>Departamento de Inteligencia Artificial<br>ETSI Informáticos<br>Universidad Politécnica de Madrid
 			   <br>
-			   <br><br><br><br>
+			   <br><br><br>
+			   </div>
 		  </div>
-		  
-		  <br><br>
+		
 		  
 		   <div class="row">
 			   <br>
