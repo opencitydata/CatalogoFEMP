@@ -17,7 +17,7 @@ permalink: /contact/
   
 </head>
 
-**Oscar Corcho**  
+<i class="fa fa-address-book" aria-hidden="true"></i>**Oscar Corcho**  
 	
 
 Ontology Engineering Group  
@@ -32,13 +32,10 @@ ETSI Informáticos
 Universidad Politécnica de Madrid   
 	
 
-Campus de Montegancedo, sn   
+<i class="fa fa-map-marker" aria-hidden="true"></i> Campus de Montegancedo, sn, 28660 Boadilla del Monte, Madrid   
 	
 
-28660 Boadilla del Monte, Madrid   
-	
-
-Tel: +34 910672911   
+<i class="fa fa-phone" aria-hidden="true"></i> +34 910672911   
 	
 	
 <br><br>
