@@ -40,13 +40,15 @@ permalink: /contact/
 			   <br>
                         <br>Ontology Engineering Group&nbsp;<br>Departamento de Inteligencia Artificial<br>ETSI Informáticos<br>Universidad Politécnica de Madrid
 			   <br>
+			   <br><br><br><br>
 		  </div>
 		  
 		  <br><br>
 		  
 		   <div class="row">
+			   <br>
 			 <div class="col-6 col-md-4">
-			<img src="/CatalogoFEMP/Iconos/location.png" alt="adress" width="50"/>
+			<img src="/CatalogoFEMP/Iconos/location.png" alt="adress" width="70"/>
 				<br>
 				 <h5 class="subtitulo colorgris"> Address </h5>
 				 <br>
@@ -55,7 +57,7 @@ permalink: /contact/
 			  </div>
 			   
 			   <div class="col-6 col-md-4">
-			<img src="/CatalogoFEMP/Iconos/phone.png" alt="phone" width="50"/>
+			<img src="/CatalogoFEMP/Iconos/phone.png" alt="phone" width="70"/>
 				   <br>
 				   <h5 class="subtitulo colorgris"> phone </h5>
 				   <br>
@@ -64,7 +66,7 @@ permalink: /contact/
 			   
 			   
 			   <div class="col-6 col-md-4">				   
-			<img src="/CatalogoFEMP/Iconos/email.png" alt="email" width="50"/>
+			<img src="/CatalogoFEMP/Iconos/email.png" alt="email" width="70"/>
 				 <br>
 				   <h5 class="subtitulo colorgris"> email </h5>
 				   <br>
