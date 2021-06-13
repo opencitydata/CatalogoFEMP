@@ -33,7 +33,7 @@ classes: wide
 
 
 <body>
-<br><br>	
+	
 	<div class="todojunto">
 		<div class="intro">
 <p>
@@ -42,6 +42,7 @@ classes: wide
 		</div>
 	</div>
 	
+<br><br>
 	
 <div class="todojunto">
 	
