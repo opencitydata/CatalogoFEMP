@@ -4,7 +4,7 @@ classes: wide
 permalink: /contact/
 ---
 
-<html style="font-size: 16px;">
+<html>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
@@ -25,7 +25,7 @@ permalink: /contact/
 	  
 	  
   </head>
-  <body class="bodyc">
+  <body class="bodyc" style="font-size: 16px;">
 	
 	  <div class="container">
 		
