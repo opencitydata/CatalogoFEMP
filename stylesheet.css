@@ -5,6 +5,17 @@
     }
 */
 
+
+.intro{
+    margin-bottom: 0.5em;
+    color: #646769;
+    font-family: Georgia,Times,serif;
+    font-size: .75em;
+        padding: 2.5em;     
+    margin: 2.5em; 
+}
+
+
 .labelForm{
   color: #212121;
   letter-spacing: 1px;
@@ -149,16 +160,6 @@ header{
    background:url("Iconos/image(1).png");   
      background-color: rgba(0,0,0,0.1);
   z-index: 2;
-}
-
-.headerR{   
-   width:100%;
-   height:auto;
-   background:url("Iconos/image(1).png");   
-     background-color: rgba(0,0,0,0.1);
-  z-index: 2;     
-    padding: 2.5em;     
-    margin: 2.5em;       
 }
 
 
