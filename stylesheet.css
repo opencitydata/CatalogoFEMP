@@ -64,13 +64,14 @@ td {
 
 
 .h1T{
-  color: white;    
-   font-size: 25px;
+  color: white; 
+  font-size: large;
 }
 
 .h2T{   
   color: white;    
-   font-size: 20px; 
+   font-size: 20px;     
+  font-size: medium;
 }
 
 .todojunto{
@@ -190,8 +191,8 @@ h1{
   display: inline-block;
   letter-spacing: 1px;
   margin: 0;
-  text-decoration: none;
-   font-size:15px;
+  text-decoration: none; 
+  font-size: smaller;
 }
 .menu-4 a:before,
 .menu-4 a:after {
