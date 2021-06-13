@@ -169,6 +169,11 @@ header{
     margin: 2.5em;   
 }
 
+h2{
+    border-bottom: none;   
+}
+
+
 
 h1{
  color: #ff7f50;    
