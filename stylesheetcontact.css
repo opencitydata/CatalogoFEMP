@@ -4,14 +4,9 @@
   color: #212121;
   position: relative;
   display: inline-block;
-  letter-spacing: 1px;
-  margin: 0;
-  text-decoration: none;
-   font-size:35px;  
   
   font-family: "Abril Fatface";
   font-size: 3.75rem;
-  margin: 0 272px;
 }
 
 .row{  
