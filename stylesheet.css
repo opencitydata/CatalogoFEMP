@@ -203,7 +203,7 @@ h1{
   letter-spacing: 1px;
   margin: 0;
   text-decoration: none; 
-  font-size: smaller;
+  font-size: 0.83rem;
 }
 .menu-4 a:before,
 .menu-4 a:after {
