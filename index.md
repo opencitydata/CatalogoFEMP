@@ -35,9 +35,11 @@ classes: wide
 <body>
 <br><br>	
 	<div class="todojunto">
+		<div class="intro">
 <p>
 	La Federación Española de Municipios y Provincias o FEMP propuso en el 2019 una <a href="https://datos.gob.es/es/documentacion/datos-abiertos-femp-2019-40-conjuntos-de-datos-publicar-por-las-entidades-locales">iniciativa</a>: crear 40 conjuntos de datos a publicar por Entidades locales. En el 2017 la Federación de Municipios y Provincias de España emitió la guía “Datos abiertos: guía estratégica para su puesta en marcha y conjuntos de datos mínimos a publicar”, que incluye una serie de recomendaciones y lineamientos sobre datos públicos abiertos, entre ellos el propósito de promover su publicación y reutilización. Además de información sobre marcos legales, modelos de gobernanza o mapas estándar de portales de datos abiertos, la guía también incluye 20 conjuntos de datos, que se consideran "el conjunto de datos más interesante, probable y fácil para la administración pública". Debido al gran éxito de FEMP, la idea inicial se amplió a otros 20 nuevos conjuntos. Como resultado se obtiene el archivo: “Datos abiertos FEMP 2019: 40 conjuntos de datos a publicar por las Entidades Locales.” Su objetivo es “proporcionar un modelo de datos abiertos común que facilite la interoperabilidad y la reutilización de la información del sector público, así como acercar a la comunidad internacional la apuesta de los municipios españoles por normalizar la información que se publica en formato abierto.” 
 </p>
+		</div>
 	</div>
 	
 	
