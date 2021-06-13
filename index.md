@@ -36,7 +36,7 @@ classes: wide
 		</div>
 		<div class="col-md"> 
 			<a href="https://datos.gob.es/es/documentacion/datos-abiertos-femp-2019-40-conjuntos-de-datos-publicar-por-las-entidades-locales"><img src="Iconos/GUIAFEMP.png" alt="Agenda" width="100"/> </a>
-			<>Guia FEMP</>
+			<button type="button" onclick="https://datos.gob.es/es/documentacion/datos-abiertos-femp-2019-40-conjuntos-de-datos-publicar-por-las-entidades-locales">Guia FEMP</button>
 		</div>
 	</div>
 	</header>
