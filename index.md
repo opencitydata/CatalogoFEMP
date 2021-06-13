@@ -4,10 +4,15 @@ classes: wide
 ---
 <head>
 	
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link href="stylesheet.css" rel="stylesheet"/>	
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-  
+	  
+<link href="/CatalogoFEMP/stylesheet.css" rel="stylesheet"/>	 
+	
+	
+	
+	
   <nav class="style-4">
 <ul class="menu-4">
 	<li class="current"><a href="https://opencitydata.github.io/CatalogoFEMP/" data-hover="Vocabularios FEMP">Vocabularios FEMP</a></li>	
