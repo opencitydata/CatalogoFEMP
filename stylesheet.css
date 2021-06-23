@@ -213,12 +213,12 @@ h1{
 
 
 /*nav nuevo(responsive)*/
-.NavMenu {	
+.navMenu {	
   text-transform: uppercase;	
 text-decoration: none;
 }
 
-.NavMenu a, a:visited, a:link{
+.navMenu a, a:visited, a:link{
    text-decoration: none;
     background: linear-gradient( #fd7e14, white);
     background-position: 0% 100%;
@@ -230,7 +230,7 @@ text-decoration: none;
     font-size: 0.70rem;	
 }
 
-.NavMenu a:hover, a:active{	
+.navMenu a:hover, a:active{	
    text-decoration: none;
     background-size: 100% 2px;
 	color:black;
