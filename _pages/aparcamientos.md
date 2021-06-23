@@ -19,6 +19,16 @@ author:
  
 <head>
 
+	<style>	
+	@media screen and (max-width: 760px) {
+	td:nth-of-type(1):before { content: "Dominio"; }
+	td:nth-of-type(2):before { content: "Estado"; }
+	td:nth-of-type(3):before { content: "Links"; }	
+	td:nth-of-type(4):before { content: "Issues"; }
+	td:nth-of-type(5):before { content: "Descripción"; }		
+	}
+	</style>
+	
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"/>
 	
