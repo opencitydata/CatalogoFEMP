@@ -61,7 +61,6 @@ author:
 <h1> VOCABULARIO APARCAMIENTOS PÚBLICOS </h1>
 </div>
   
----
 
 &nbsp;
  
@@ -75,11 +74,8 @@ author:
 
   
   &nbsp;
-  &nbsp;
-  &nbsp;
-  
-
-  
+  &nbsp;    
+	
 | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Transporte | Inexistente | *[Repositorio](https://github.com/opencitydata/transporte-aparcamiento)*  |  *[Generar issue](https://github.com/opencitydata/transporte-aparcamiento/issues)*   | Todo aparcamiento público, controlado o cerrado. Incluido el de residentes. |  
