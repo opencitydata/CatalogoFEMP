@@ -122,11 +122,13 @@ td {
 .h1T{
   color: white;
   font-size: xx-large;
+	font-family: Georgia,Times,serif;
 }
 
 .h2T{   
   color: white;    
   font-size:small;
+	font-family: Georgia,Times,serif;
 }
 
 .todojunto{
