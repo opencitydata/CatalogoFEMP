@@ -75,7 +75,7 @@ permalink: /agendaactividades/
 
 
 <div id="bodyid">
-<link href="/CatalogoFEMP/stylesheet.css" rel="stylesheet"/>
+	
 <h1> VOCABULARIO AGENDA DE ACTIVIDADES Y EVENTOS </h1>
 </div>
   
