@@ -21,6 +21,27 @@ permalink: /agendaactividades/
 <link href="/CatalogoFEMP/stylesheet.css" rel="stylesheet"/>
   
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"/>
+
+	<style>
+	<link href="/CatalogoFEMP/stylesheet.css" rel="stylesheet"/>
+  
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"/>
+	
+	@media 
+only screen and (max-width: 760px),
+(min-device-width: 768px) and (max-device-width: 1024px)  {
+	td:nth-of-type(1):before { content: "Dominio"; }
+	td:nth-of-type(2):before { content: "Estado"; }
+	td:nth-of-type(3):before { content: "Links"; }	
+	td:nth-of-type(4):before { content: "Issues"; }
+	td:nth-of-type(5):before { content: "Descripción"; }	
+	td:nth-of-type(6):before { content: "Fecha Publicación"; }
+	td:nth-of-type(8):before { content: "Prefijo"; }
+	td:nth-of-type(7):before { content: "Formatos"; }
+	td:nth-of-type(9):before { content: "Liciencia"; }
+	td:nth-of-type(10):before { content: "Idiomas"; }	
+}
+</style>
 	
 
   
