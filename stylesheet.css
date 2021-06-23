@@ -109,15 +109,13 @@ td {
 
 
 .h1T{
-  color: white; 
-  font-size: xxx-large;
-    font-family: Georgia,Times,serif;
+  color: white;
+  font-size: 1rem;
 }
 
 .h2T{   
   color: white;    
-  font-size: small;
-    font-family: Georgia,Times,serif;
+  font-size: 0.70rem;
 }
 
 .todojunto{
