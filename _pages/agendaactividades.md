@@ -69,7 +69,7 @@ only screen and (max-width: 760px),
 
 
 <div id="bodyid">
-<link href="stylesheet.css" rel="stylesheet"/>
+<link href="/CatalogoFEMP/stylesheet.css" rel="stylesheet"/>
 
 <h1> VOCABULARIO AGENDA DE ACTIVIDADES Y EVENTOS </h1>
 </div>
