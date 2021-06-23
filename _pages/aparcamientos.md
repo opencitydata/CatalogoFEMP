@@ -44,20 +44,17 @@ author:
 	</div>    
 	</div>
 </div>     
-	</nav>
-	
- 
- 
+	</nav>	
+	<br><br> 
 </head>
 
 
 
 <body>
 	
-	<br><br>
+
 
 <div id="bodyid">
-
 <h1> VOCABULARIO APARCAMIENTOS PÚBLICOS </h1>
 </div>
   
@@ -72,9 +69,8 @@ author:
 <img src="/CatalogoFEMP/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 
-  
-  &nbsp;
-  &nbsp;    
+    
+	
 	
 | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
