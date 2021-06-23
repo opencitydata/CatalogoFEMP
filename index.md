@@ -13,13 +13,26 @@ classes: wide
 	
 	
 	
-  <nav class="style-4">
-<ul class="menu-4">
-	<li class="current"><a href="https://opencitydata.github.io/CatalogoFEMP/" data-hover="Vocabularios FEMP">Vocabularios FEMP</a></li>	
-	<li class="left"><a href="/CatalogoFEMP/contact/" data-hover="Contact">Contact</a></li>
-	<li class="left"><a href="http://vocab.linkeddata.es/datosabiertos/" data-hover="Open Data Cities">Open Data Cities</a></li>
-	<li class="left"><a href="https://github.com/opencitydata/" data-hover="Open City GitHub">Open City GitHub</a></li>
-</ul>
+<nav>
+<div class="NavMenu">
+	<div class="row">    
+	<div class="col-sm">
+		<div class="current"><a href="https://opencitydata.github.io/CatalogoFEMP/" data-hover="Catálogo">Catálogo</a></div>
+	</div>
+	<div class="col-sm">
+	<div class="left"><a href="/CatalogoFEMP/contact/" data-hover="Contact">Contact</a></div>
+	</div>
+	<div class="col-sm">
+	<div class="left"><a href="http://vocab.linkeddata.es/datosabiertos/" data-hover="Open Data Cities">Open Data Cities</a></div>
+	</div>
+	<div class="col-sm">
+	<div class="left"><a href="https://github.com/opencitydata/" data-hover="Open City GitHub">Open City GitHub</a></div>
+	</div>
+	<div class="col-sm">
+  <div class="left"><a href="https://github.com/opencitydata/cultura-ocio-agenda-eventos-actividades/blob/master/README.md" data-hover="README">README</a></div>
+	</div>    
+	</div>
+</div>     
 	</nav>
 	<br><br>
 	<header>
