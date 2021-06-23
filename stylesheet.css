@@ -1,9 +1,3 @@
-/*
-.tablelines table, .tablelines td, .tablelines th {
-    border: 1px solid black; padding:10px;
-    background-color:white;
-    }
-*/
 
 .buttonI{    
     font-family: Georgia,Times,serif;
@@ -59,6 +53,43 @@ figure img {
   width: 100%;
   height: auto;
 }
+
+/*TABLAS responsive*/
+
+@media only screen and (max-width: 760px) {
+	
+	td { 
+		border: none;
+		border-bottom: 0.3px solid #eee; 
+		padding-bottom: 10px; 
+		position: relative;
+		padding-left: 35%; 		
+	}
+	
+	td:before { 
+		position: absolute;
+		width: 35%; 
+		left: 10px;
+	}
+	
+		table, thead,tbody, td, tr { 
+		display: block; 
+	}
+	
+	/*Para que no salga los cabeceros */
+	 thead tr {
+	   border-top: none;
+	    position: absolute;
+	    top: -999999999px;
+	    left: -99999999px;
+	  }
+	
+	.current{
+	 float:right;
+ 	text-align: right;	
+	}
+}
+
 
 td {
     background-color: white;
@@ -184,6 +215,29 @@ h1{
 }
 
 
+/*nav nuevo(responsive)*/
+.NavMenu{	
+  text-transform: uppercase;	
+text-decoration: none;
+}
+
+.NavMenu a, a:visited, a:link{
+   text-decoration: none;
+    background: linear-gradient( #fd7e14, white);
+    background-position: 0% 100%;
+    background-repeat: no-repeat;
+    background-size: 0% 2px;
+    transition: background-size .3s;	
+  color: black;
+text-decoration: none;
+    font-size: 0.70rem;	
+}
+
+.NavMenu a:hover, a:active{	
+   text-decoration: none;
+    background-size: 100% 2px;
+	color:black;
+}
 
 
 
