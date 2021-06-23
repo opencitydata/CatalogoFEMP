@@ -1,4 +1,15 @@
 
+h2{
+    border-bottom: none; 	
+  font-size: 0.70rem;
+}
+
+h1{
+ color: #ff7f50; 
+  font-size: 1.5rem;  
+}
+
+
 .buttonI{    
     font-family: Georgia,Times,serif;
   font-size: small;
@@ -110,12 +121,12 @@ td {
 
 .h1T{
   color: white;
-  font-size: 1rem;
+  font-size: xx-large;
 }
 
 .h2T{   
   color: white;    
-  font-size: 0.70rem;
+  font-size:small;
 }
 
 .todojunto{
@@ -201,26 +212,14 @@ header{
     margin: 2.5em;   
 }
 
-h2{
-    border-bottom: none; 	
-  font-size: small;
-    font-family: Georgia,Times,serif;
-}
-
-h1{
- color: #ff7f50; 
-  font-size: large;
-    font-family: Georgia,Times,serif;   
-}
 
 
 /*nav nuevo(responsive)*/
 .navMenu {	
-  text-transform: uppercase;	
-text-decoration: none;
+  text-transform: uppercase;
 }
 
-.navMenu a, a:visited, a:link{
+.navMenu a{
    text-decoration: none;
     background: linear-gradient( #fd7e14, white);
     background-position: 0% 100%;
@@ -228,11 +227,10 @@ text-decoration: none;
     background-size: 0% 2px;
     transition: background-size .3s;	
   color: black;
-text-decoration: none;
     font-size: 0.70rem;	
 }
 
-.navMenu a:hover, a:active{	
+.navMenu a:hover{	
    text-decoration: none;
     background-size: 100% 2px;
 	color:black;
