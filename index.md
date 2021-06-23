@@ -17,24 +17,23 @@ classes: wide
 <div class="navMenu">
 	<div class="row">    
 	<div class="col-sm">
-		<div class="current"><a href="https://opencitydata.github.io/CatalogoFEMP/" data-hover="Catálogo">Catálogo</a></div>
+		<div class="current"><a href="https://opencitydata.github.io/CatalogoFEMP/">Catálogo</a></div>
 	</div>
 	<div class="col-sm">
-	<div class="left"><a href="/CatalogoFEMP/contact/" data-hover="Contact">Contact</a></div>
+	<div class="left"><a href="/CatalogoFEMP/contact/">Contact</a></div>
 	</div>
 	<div class="col-sm">
-	<div class="left"><a href="http://vocab.linkeddata.es/datosabiertos/" data-hover="Open Data Cities">Open Data Cities</a></div>
+	<div class="left"><a href="http://vocab.linkeddata.es/datosabiertos/">Open Data Cities</a></div>
 	</div>
 	<div class="col-sm">
-	<div class="left"><a href="https://github.com/opencitydata/" data-hover="Open City GitHub">Open City GitHub</a></div>
+	<div class="left"><a href="https://github.com/opencitydata/">Open City GitHub</a></div>
 	</div>
-	<div class="col-sm">
-  <div class="left"><a href="https://github.com/opencitydata/cultura-ocio-agenda-eventos-actividades/blob/master/README.md" data-hover="README">README</a></div>
-	</div>    
+		
 	</div>
 </div>     
-	</nav>
+</nav>
 	<br><br>
+	
 	<header>
 	<div class="headerC">
 		<div class="row">
