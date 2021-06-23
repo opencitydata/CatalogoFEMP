@@ -14,7 +14,7 @@ classes: wide
 	
 	
 <nav>
-<div class="NavMenu">
+<div class="navMenu">
 	<div class="row">    
 	<div class="col-sm">
 		<div class="current"><a href="https://opencitydata.github.io/CatalogoFEMP/" data-hover="Catálogo">Catálogo</a></div>
