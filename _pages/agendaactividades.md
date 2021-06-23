@@ -19,8 +19,7 @@ permalink: /agendaactividades/
 
 <head>
 
-	<style>
-	
+	<style>	
 	@media screen and (max-width: 760px) {
 	td:nth-of-type(1):before { content: "Dominio"; }
 	td:nth-of-type(2):before { content: "Estado"; }
@@ -40,7 +39,7 @@ permalink: /agendaactividades/
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"/>
   
 <nav>
-<div class="NavMenu">
+<div class="navMenu">
 	<div class="row">    
 	<div class="col-sm">
 		<div class="current"><a href="https://opencitydata.github.io/CatalogoFEMP/" data-hover="Catálogo">Catálogo</a></div>
