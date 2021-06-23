@@ -15,6 +15,7 @@ author:
 ---
 
 
+
  
 <head>
 
@@ -44,7 +45,7 @@ author:
 	</div>
 </div>     
 	</nav>
-	<br><br>
+	
  
  
 </head>
@@ -52,9 +53,10 @@ author:
 
 
 <body>
+	
+	<br><br>
 
 <div id="bodyid">
-
 
 <h1> VOCABULARIO APARCAMIENTOS PÚBLICOS </h1>
 </div>
