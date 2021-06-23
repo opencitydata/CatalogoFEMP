@@ -31,8 +31,8 @@ permalink: /agendaactividades/
 	td:nth-of-type(7):before { content: "Formatos"; }
 	td:nth-of-type(9):before { content: "Liciencia"; }
 	td:nth-of-type(10):before { content: "Idiomas"; }	
-}
-</style>
+	}
+	</style>
   
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"/>
 	
