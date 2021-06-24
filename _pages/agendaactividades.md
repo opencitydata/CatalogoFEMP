@@ -58,8 +58,8 @@ permalink: /agendaactividades/
 	<div class="left"><a href="https://github.com/opencitydata/" style="text-decoration: none;">Open City GitHub</a></div>
 	</div>
 		
-	<div class="col-sm" style="text-align: center;">
-  <div class="left"><a href="https://github.com/opencitydata/cultura-ocio-agenda-eventos-actividades/blob/master/README.md" style="text-decoration: none;">README</a></div>
+	<div class="col-sm">
+  <div class="left" style="text-align: center;"><a href="https://github.com/opencitydata/cultura-ocio-agenda-eventos-actividades/blob/master/README.md" style="text-decoration: none;">README</a></div>
 	</div> 
 		
 	</div>
