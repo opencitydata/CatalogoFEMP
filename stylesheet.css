@@ -1,4 +1,6 @@
-
+.listaSearch{
+	list-style-type: none;
+}
 
 h2{
     border-bottom: none; 	
