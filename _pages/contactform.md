@@ -10,21 +10,37 @@ permalink: /contact/
     <meta charset="utf-8">
     <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abril+Fatface:400">
     
-   
-<link href="/CatalogoFEMP/stylesheetcontact.css" rel="stylesheet"/>
+
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 	  
+<link href="/CatalogoFEMP/stylesheetcontact.css" rel="stylesheet"/>
+	  
 <link href="/CatalogoFEMP/stylesheet.css" rel="stylesheet"/>	  
-	  <nav class="style-4">
-<ul class="menu-4">
-	<li class="current"><a href="https://opencitydata.github.io/CatalogoFEMP/" data-hover="Catálogo">Catálogo</a></li>
-	<li class="left"><a href="http://vocab.linkeddata.es/datosabiertos/" data-hover="Open Data Cities">Open Data Cities</a></li>
-	<li class="left"><a href="https://github.com/opencitydata/" data-hover="Open City GitHub">Open City GitHub</a></li>	
-</ul>	</nav>
+
+	  <nav>
+<div class="navMenu">
+	<div class="row">  
+		
+	<div class="col-sm">
+	<div class="current"><a href="https://opencitydata.github.io/CatalogoFEMP/" style="text-decoration: none;">Catálogo</a></div>
+	</div>
+		
+	<div class="col-sm">
+	<div class="left"><a href="http://vocab.linkeddata.es/datosabiertos/" style="text-decoration: none;">Open Data Cities</a></div>
+	</div>
+		
+	<div class="col-sm">
+	<div class="left"><a href="https://github.com/opencitydata/" style="text-decoration: none;">Open City GitHub</a></div>
+	</div>
+		
+	</div>
+</div>     
+</nav>
 	<br><br>
 	  
-	  
   </head>
+	
+		
   <body class="bodyc" style="font-size: 16px;">
 	
 	  <div class="container">
