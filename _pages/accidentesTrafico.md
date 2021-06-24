@@ -45,7 +45,7 @@ permalink: /accidentes/
   <div class="collapse navbar-collapse" id="navbarResponsive">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item">
-        <a class="nav-link" href="https://github.com/opencitydata/cultura-ocio-agenda-eventos-actividades/blob/master/README.md" style="text-decoration: none;">README</a>
+        <a class="nav-link" href="https://github.com/opencitydata/transporte-accidentalidad-trafico" style="text-decoration: none;">README</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="https://github.com/opencitydata/" style="text-decoration: none;">Open City GitHub</a>
