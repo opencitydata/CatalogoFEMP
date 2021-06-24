@@ -32,7 +32,7 @@ classes: wide
 	</div>
 </div>     
 </nav>
-	<br><br>
+	<br>
 	
 	<header>
 	<div class="headerC">
