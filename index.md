@@ -36,11 +36,15 @@ classes: wide
         <a class="nav-link" href="/CatalogoFEMP/contact/" style="text-decoration: none;">Contact</a>
       </li>
       
-    </ul>
+  
+	  <li class="nav-item">
 	<div class="search">
-      <div class="mr-sm-2">
+     	 <div class="mr-sm-2">
 	      <a href="/CatalogoFEMP/search/"><i class="bi bi-search"></i></a>
 	  </div>
+	  </div>
+	  </li>
+	</ul>
   </div>
 </nav>
 <br>
