@@ -67,7 +67,7 @@ permalink: /search/
 			 <div class="col-md">
 			   	<input type="text" id="search" onkeyup="myFunction()" placeholder="Search for names.." title="Type in a name">
 
-				<ul id="names">
+				<ul id="names" style="display: none;">
 				  <li><a href="#">Adele</a></li>
 				  <li><a href="#">Agnes</a></li>
 
