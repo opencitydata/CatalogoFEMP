@@ -17,7 +17,6 @@ permalink: /search/
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 	  
-    <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abril+Fatface:400">
 	
 <link href="/CatalogoFEMP/stylesheet.css" rel="stylesheet"/>
 	
@@ -57,7 +56,8 @@ permalink: /search/
 	
 	  <div class="container">
 		
-		 <div class="row">	   
+		 <div class="row">	
+			   <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abril+Fatface:400">
 			 <div class="col-md">
 			 <h2> Search </h2>
 			 </div>
@@ -67,8 +67,10 @@ permalink: /search/
 		 
 		   <div class="row">			   
 			 <div class="col-md">
-			   	<input type="text" id="search" onkeyup="myFunction()" placeholder="Search for names.." title="Type in a name">
-
+			   	<input type="text" id="search" onkeyup="myFunction()" placeholder="Search for a vocabulary...">
+				
+				 <br><br><br>
+				 
 				<ul id="names" class="listaSearch">
 				  <li><a href="https://opencitydata.github.io/CatalogoFEMP/agenda/">Agenda municipal alcaldía y personal directivo</a></li>
 				  <li><a href="https://opencitydata.github.io/CatalogoFEMP/agendaactividades/">Agenda de actividades y eventos</a></li>
