@@ -13,7 +13,7 @@ classes: wide
     
  <div class="navMenu">   
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <a class="navbar-brand" href="https://opencitydata.github.io/CatalogoFEMP/">Catalogue</a>
+  <a class="navbar-brand" href="https://opencitydata.github.io/CatalogoFEMP/" style="text-decoration: none;">Catalogue</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -21,11 +21,11 @@ classes: wide
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item">
-        <a class="nav-link" href="http://vocab.linkeddata.es/datosabiertos/">Open City GitHub</a>
+        <a class="nav-link" href="http://vocab.linkeddata.es/datosabiertos/" style="text-decoration: none;">Open City GitHub</a>
       </li>
       
       <li class="nav-item">
-        <a class="nav-link" href="/CatalogoFEMP/contact/">Contact</a>
+        <a class="nav-link" href="/CatalogoFEMP/contact/" style="text-decoration: none;">Contact</a>
       </li>
       
     </ul>
