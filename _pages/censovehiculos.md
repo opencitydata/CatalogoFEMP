@@ -27,38 +27,46 @@ permalink: /censovehiculos/
 	}
 	</style>
   
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"/>
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 	
 <link href="/CatalogoFEMP/stylesheet.css" rel="stylesheet"/>
+	
+	    
+ <div class="navMenu">   
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="https://opencitydata.github.io/CatalogoFEMP/" style="text-decoration: none;">Catalogue</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
 
-<nav>
-<div class="navMenu">
-	<div class="row">  
-		
-	<div class="col-sm">
-	<div class="current"><a href="https://opencitydata.github.io/CatalogoFEMP/" style="text-decoration: none;">Catálogo</a></div>
-	</div>
-		
-	<div class="col-sm">
-  	<div class="left"><a href="https://github.com/opencitydata/vocab-transporte-censo-vehiculos/blob/main/README.md" style="text-decoration: none;">README</a></div>
-	</div> 
-		
-	<div class="col-sm">
-	<div class="left"><a href="http://vocab.linkeddata.es/datosabiertos/" style="text-decoration: none;">Open Data Cities</a></div>
-	</div>
-		
-	<div class="col-sm">
-	<div class="left"><a href="https://github.com/opencitydata/" style="text-decoration: none;">Open City GitHub</a></div>
-	</div>
-		
-	<div class="col-sm">
-	<div class="left"><a href="/CatalogoFEMP/contact/" data-hover="Contact" style="text-decoration: none;">Contact</a></div>
-	</div>
-		
-	</div>
-</div>     
+  <div class="collapse navbar-collapse" id="navbarResponsive">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item">
+        <a class="nav-link" href="https://github.com/opencitydata/vocab-transporte-censo-vehiculos/blob/main/README.md" style="text-decoration: none;">README</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://github.com/opencitydata/" style="text-decoration: none;">Open City GitHub</a>
+      </li>
+	    
+	<li class="nav-item">
+        <a class="nav-link" href="http://vocab.linkeddata.es/datosabiertos/" style="text-decoration: none;">Open Data Cities</a>
+      </li>
+      
+      <li class="nav-item">
+        <a class="nav-link" href="/CatalogoFEMP/contact/" style="text-decoration: none;">Contact</a>
+      </li>
+      
+    </ul>
+  </div>
 </nav>
-	<br><br>
+<br><br>
+</div>
 	
   
 </head>
