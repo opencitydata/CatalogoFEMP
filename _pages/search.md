@@ -60,6 +60,7 @@ permalink: /search/
 			 <div class="col-md">
 			 <h2> Search </h2>
 			 </div>
+			 <br><br><br>
 		  </div>
 		  
 		 
