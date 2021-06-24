@@ -82,7 +82,11 @@ permalink: /agendaactividades/
         <a class="nav-link" href="https://github.com/opencitydata/cultura-ocio-agenda-eventos-actividades/blob/master/README.md" style="text-decoration: none;">README</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="http://vocab.linkeddata.es/datosabiertos/" style="text-decoration: none;">Open City GitHub</a>
+        <a class="nav-link" href=""https://github.com/opencitydata/" style="text-decoration: none;">Open City GitHub</a>
+      </li>
+	    
+	<li class="nav-item">
+        <a class="nav-link" href="http://vocab.linkeddata.es/datosabiertos/" style="text-decoration: none;">Open Data Cities</a>
       </li>
       
       <li class="nav-item">
