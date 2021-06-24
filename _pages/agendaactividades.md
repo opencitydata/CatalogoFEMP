@@ -79,14 +79,14 @@ permalink: /agendaactividades/
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item">
-        <a class="nav-link" href="https://github.com/opencitydata/cultura-ocio-agenda-eventos-actividades/blob/master/README.md">README</a>
+        <a class="nav-link" href="https://github.com/opencitydata/cultura-ocio-agenda-eventos-actividades/blob/master/README.md" style="text-decoration: none;">README</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="http://vocab.linkeddata.es/datosabiertos/">Open City GitHub</a>
+        <a class="nav-link" href="http://vocab.linkeddata.es/datosabiertos/" style="text-decoration: none;">Open City GitHub</a>
       </li>
       
       <li class="nav-item">
-        <a class="nav-link" href="/CatalogoFEMP/contact/">Contact</a>
+        <a class="nav-link" href="/CatalogoFEMP/contact/" style="text-decoration: none;">Contact</a>
       </li>
       
     </ul>
