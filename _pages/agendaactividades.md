@@ -40,12 +40,12 @@ permalink: /agendaactividades/
 
 <nav>
 <div class="navMenu">
-	<div class="row">  
-		
-	<div class="col-sm-auto">
+	
+	<div class="float-sm-left">
 	<div class="current"><a href="https://opencitydata.github.io/CatalogoFEMP/" style="text-decoration: none;">Catálogo</a></div>
 	</div>
-		
+	
+	<div class="row">  		
 	<div class="col-sm-auto">
   	<div class="left"><a href="https://github.com/opencitydata/cultura-ocio-agenda-eventos-actividades/blob/master/README.md" style="text-decoration: none;">README</a></div>
 	</div> 
