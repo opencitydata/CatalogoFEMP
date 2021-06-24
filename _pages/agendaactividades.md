@@ -43,11 +43,10 @@ permalink: /agendaactividades/
 	<div class="row">  
 		
 	<div class="col-sm">
-	<div class="current"><a href="https://opencitydata.github.io/CatalogoFEMP/" style="text-decoration: none;">Catálogo</a></div>
-	</div>
-		
+  <div class="leftReadme"><a href="https://github.com/opencitydata/cultura-ocio-agenda-eventos-actividades/blob/master/README.md" style="text-decoration: none;">README</a></div>
+	</div> 
 	<div class="col-sm">
-	<div class="left"><a href="/CatalogoFEMP/contact/" data-hover="Contact" style="text-decoration: none;">Contact</a></div>
+	<div class="current"><a href="https://opencitydata.github.io/CatalogoFEMP/" style="text-decoration: none;">Catálogo</a></div>
 	</div>
 		
 	<div class="col-sm">
@@ -59,8 +58,8 @@ permalink: /agendaactividades/
 	</div>
 		
 	<div class="col-sm">
-  <div class="leftReadme"><a href="https://github.com/opencitydata/cultura-ocio-agenda-eventos-actividades/blob/master/README.md" style="text-decoration: none;">README</a></div>
-	</div> 
+	<div class="left"><a href="/CatalogoFEMP/contact/" data-hover="Contact" style="text-decoration: none;">Contact</a></div>
+	</div>
 		
 	</div>
 </div>     
