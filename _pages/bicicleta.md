@@ -29,8 +29,8 @@ permalink: /bicicleta/
 	td:nth-of-type(4):before { content: "Issues"; }
 	td:nth-of-type(5):before { content: "Descripción"; }	
 	td:nth-of-type(6):before { content: "Fecha Publicación"; }
-	td:nth-of-type(8):before { content: "Prefijo"; }
-	td:nth-of-type(7):before { content: "Formatos"; }
+	td:nth-of-type(7):before { content: "Prefijo"; }
+	td:nth-of-type(8):before { content: "Formatos"; }
 	td:nth-of-type(9):before { content: "Liciencia"; }
 	td:nth-of-type(10):before { content: "Idiomas"; }	
 	}
