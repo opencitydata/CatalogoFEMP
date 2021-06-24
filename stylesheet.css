@@ -229,7 +229,7 @@ header{
     background-size: 0% 2px;
     transition: background-size .3s;	
   color: black;
-    font-size: 1rem;	
+    font-size: 0.85rem;	
 }
 
 .navMenu a:hover{	
