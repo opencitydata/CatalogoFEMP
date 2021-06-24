@@ -65,52 +65,45 @@ permalink: /search/
 		 
 		   <div class="row">			   
 			 <div class="col-md">
-			   <div class="colorgris">
-			   <br>
-			 <span style="font-weight: 700; text-align: center;" >Oscar Corcho</span>
-			   <br>
-                        <br>Ontology Engineering Group&nbsp;<br>Departamento de Inteligencia Artificial<br>ETSI Informáticos<br>Universidad Politécnica de Madrid
-			   <br>
-			   <br><br><br>
-			   </div>
+			   	<input type="text" id="search" onkeyup="myFunction()" placeholder="Search for names.." title="Type in a name">
+
+				<ul id="names">
+				  <li><a href="#">Adele</a></li>
+				  <li><a href="#">Agnes</a></li>
+
+				  <li><a href="#">Billy</a></li>
+				  <li><a href="#">Bob</a></li>
+
+				  <li><a href="#">Calvin</a></li>
+				  <li><a href="#">Christina</a></li>
+				  <li><a href="#">Cindy</a></li>
+				</ul>
+				 
 			   </div>
 		  </div>
-		
-		
-		   <div class="row">
-			   <br>
-			 <div class="col-6 col-md-4">
-			<img src="/CatalogoFEMP/Iconos/location.png" alt="adress" width="70"/>
-				 <br>
-				 <h5 class="subtitulo colorgris"> Address </h5>
-				 <br>
-				 <p> Campus de Montegancedo, sn, 28660 Boadilla del Monte, Madrid </p>
-				 <br>
-			  </div>
-			   
-			   <div class="col-6 col-md-4">
-			<img src="/CatalogoFEMP/Iconos/phone.png" alt="phone" width="70"/>
-				    <br>
-				   <h5 class="subtitulo colorgris"> phone </h5>
-				   <br>
-				 <p> +34 910672911 </p>
-			  </div>
-			   
-			   
-			   <div class="col-6 col-md-4">				   
-			<img src="/CatalogoFEMP/Iconos/email.png" alt="email" width="120"/>
-				   <br>
-				   <br>
-				   <h5 class="subtitulo colorgris"> email </h5>
-				   <br>
-				 <p> oscar.corcho@upm.es </p>
-			  </div>
-			   
-		 </div>
-		  
 		  
 		  
 	  </div>  
+	  
+	  <script>
+function myFunction() {
+    var input, filter, ul, li, a, i, txtValue;
+    input = document.getElementById("search");
+    filter = input.value.toUpperCase();
+    ul = document.getElementById("names");
+    li = ul.getElementsByTagName("li");
+    for (i = 0; i < li.length; i++) {
+        a = li[i].getElementsByTagName("a")[0];
+        txtValue = a.textContent || a.innerText;
+        if (txtValue.toUpperCase().indexOf(filter) > -1) {
+            li[i].style.display = "";
+        } else {
+            li[i].style.display = "none";
+        }
+    }
+}
+</script>
+		  
 	  
     
   </body>
