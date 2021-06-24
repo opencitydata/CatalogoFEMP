@@ -39,7 +39,7 @@ classes: wide
     </ul>
 	<div class="search">
       <div class="mr-sm-2">
-	<i class="bi bi-search"></i>
+	      <a href="/CatalogoFEMP/search/"><i class="bi bi-search"></i></a>
 	  </div>
   </div>
 </nav>
