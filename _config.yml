@@ -25,7 +25,9 @@ sidebar:
 
 include:
   - "_pages"
-  
+
+search: true
+
 #baseurl: fempcatalogo.github.io
 #baseurl: /FEMPTFG
   
