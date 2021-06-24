@@ -297,8 +297,8 @@ header{
 }
 
 .left{
- float:center;
- text-align: center;
+ float:left;
+ text-align: left;
 }
 
 .leftReadme{
