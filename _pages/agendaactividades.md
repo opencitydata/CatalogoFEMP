@@ -41,7 +41,7 @@ permalink: /agendaactividades/
 <nav>
 <div class="navMenu">	
 	<div class="row">  	
-	<div class="float-sm-left">
+	<div class="col-sm-auto-left">
 	<div class="current"><a href="https://opencitydata.github.io/CatalogoFEMP/" style="text-decoration: none;">Catálogo</a></div>
 	</div>
 	
