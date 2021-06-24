@@ -297,10 +297,14 @@ header{
 }
 
 .left{
- float:right;
- text-align: right;
+ float:center;
+ text-align: center;
 }
 
+.leftReadme{
+ float:center;
+ text-align: center;
+}
 
 
 
