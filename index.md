@@ -37,10 +37,10 @@ classes: wide
       </li>
       
     </ul>
-    <form class="form-inline my-2 my-lg-0">
-      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" id="search">
-      <button class="btn btn-outline-success my-2 my-sm-0" type="submit" onclick="search(document.getElementById('search').value)">Search</button>
-    </form>
+	<div class="search">
+      <input class="form-control mr-sm-2" type="search" placeholder="Search" id="search">
+	<input type="button" class="btn btn-outline-success my-2 my-sm-0" value="Submit"  onclick="search(document.getElementById('search').value)" >
+	  </div>
   </div>
 </nav>
 <br>
@@ -447,6 +447,16 @@ window.find(string);
 	<br>
 	</div>
 </div>
+	
+	
+	<!--buscar palabras con javacript -->
+<script type="text/javascript" wfd-invisible="true">
+function search(string){
+window.find(string);
+}
+</script>
+
+
 
 </body>
 
