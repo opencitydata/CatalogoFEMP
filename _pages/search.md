@@ -69,8 +69,7 @@ permalink: /search/
 		 
 		   <div class="row">			   
 			 <div class="col-md form-outline">
-			   	<input type="text" id="search" onkeyup="myFunction()" class="form-control">
-				 <label class="form-label">Search</label>
+			   	<input type="text" id="search" onkeyup="myFunction()" class="form-control" placeholder="Search">
 				
 				 <br><br><br>
 				 
