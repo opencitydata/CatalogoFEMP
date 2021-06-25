@@ -18,7 +18,9 @@ permalink: /search/
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 	  
 	
+    <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abril+Fatface:400">	
 <link href="/CatalogoFEMP/stylesheet.css" rel="stylesheet"/>
+<link href="/CatalogoFEMP/stylesheetcontact.css" rel="stylesheet"/>
 	
 	    
  <div class="navMenu">   
