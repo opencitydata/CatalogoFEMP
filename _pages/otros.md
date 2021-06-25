@@ -88,13 +88,13 @@ permalink: /otros/
  <a href="https://github.com/opencitydata/sector-publico-contratacion-publica/blob/master/README.md"> README </a>
    &nbsp;
    
-| Dominio |  Estado  |   Links   |    Descripción   |  Fecha Publicación |  Formatos |   Liciencia | Idiomas   | 
-| -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- |
-| Sector público | En proceso | *[Documentación](https://docs.google.com/document/d/1xUkFq3y1CtZGppkliAIDXXGV5Ff3TwCVgu4yeN1wUOg/edit)* *[Repositorio](https://github.com/opencitydata/sector-publico-contratacion-publica)* |  Vocabulario sobre contratación pública basado en Open Contracting Data Standard. Este repositorio se basa en la ontología OCDS realizada en el contexto del proyecto TheyBuyForYou | 26/03/19 |  rdf  turtle | CC-BY  |  en   |
+| Dominio |  Estado  |   Links     |   Issues   |     Descripción   |  Fecha Publicación |  Formatos |   Liciencia | Idiomas   | 
+| -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | -------- |
+| Sector público | En proceso | *[Documentación](https://docs.google.com/document/d/1xUkFq3y1CtZGppkliAIDXXGV5Ff3TwCVgu4yeN1wUOg/edit)* *[Repositorio](https://github.com/opencitydata/sector-publico-contratacion-publica)* |   |  Vocabulario sobre contratación pública basado en Open Contracting Data Standard. Este repositorio se basa en la ontología OCDS realizada en el contexto del proyecto TheyBuyForYou | 26/03/19 |  rdf  turtle | CC-BY  |  en   |
 
 &nbsp; 
  
-  
+
 
  
  <h1> VOCABULARIO EMISIONES </h1><a name="id2"></a>
@@ -103,9 +103,9 @@ permalink: /otros/
    &nbsp;
       
       
-| Dominio |  Estado  |   Links   |   Issues   |   Descripción   |   Fecha Publicación |  Formatos |   Liciencia | Idiomas   | 
-| -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | -------- |
-| Medio Ambiente | Terminado |  *[Repositorio](https://github.com/opencitydata/vocab-medio-ambiente-emisiones)*   |  *[Generar issue](https://github.com/opencitydata/vocab-medio-ambiente-emisiones/issues)*   | Vocabulario para la representación de los cubos de datos de emisiones de gases de efecto invernadero. | 09/12/20 |  xml  turtle | CC-BY  | es |
+| Dominio |  Estado  |   Links   |   Issues   |   Descripción   |   Fecha Publicación |   Prefijo   |  Formatos |   Liciencia | Idiomas   | 
+| -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | -------- |  -------- |
+| Medio Ambiente | Terminado |  *[Repositorio](https://github.com/opencitydata/vocab-medio-ambiente-emisiones)*   |  *[Generar issue](https://github.com/opencitydata/vocab-medio-ambiente-emisiones/issues)*   | Vocabulario para la representación de los cubos de datos de emisiones de gases de efecto invernadero. | 09/12/20 |   |  xml  turtle | CC-BY  | es |
     
 
 &nbsp; 
@@ -117,14 +117,15 @@ permalink: /otros/
    &nbsp;
    
 
-| Dominio |  Estado  |   Links   |   Issues   |   Descripción   |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
-| -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | 
-| Sector público | 	En proceso | *[Página web](http://vocab.ciudadesabiertas.es/def/sector-publico/empleo)* *[Repositorio](https://github.com/opencitydata/vocab-sector-publico-empleo)*   |  *[Generar issue](https://github.com/opencitydata/vocab-sector-publico-empleo/issues)*   | Vocabulario para la representación de datos sobre la oferta de empleo público.  |  esemp | rdf+xml   html   turtle | CC-BY  | es   en   |
+| Dominio |  Estado  |   Links   |   Issues   |   Descripción   |   Fecha Publicación | Prefijo   | Formatos |   Liciencia | Idiomas   | 
+| -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | --------- | 
+| Sector público | 	En proceso | *[Página web](http://vocab.ciudadesabiertas.es/def/sector-publico/empleo)* *[Repositorio](https://github.com/opencitydata/vocab-sector-publico-empleo)*   |  *[Generar issue](https://github.com/opencitydata/vocab-sector-publico-empleo/issues)*   | Vocabulario para la representación de datos sobre la oferta de empleo público.  |    | esemp | rdf+xml   html   turtle | CC-BY  | es   en   |
 
 
 &nbsp; 
 
 
+  
  <h1> VOCABULARIO AUTOBÚS </h1><a name="id4"></a> 
    &nbsp;   
  <a href="https://github.com/opencitydata/vocab-transporte-autobus/blob/master/README.md"> README </a> 
@@ -154,14 +155,15 @@ permalink: /otros/
    
 
 
+  
 <h1> VOCABULARIO DIRECCIÓN POSTAL</h1><a name="id6"></a>
    &nbsp;   
  <a href="https://github.com/opencitydata/commons-direccion-postal/blob/master/README.md"> README </a> 
    &nbsp;
    
-   | Dominio |  Estado  |   Links   |   Issues   |   Descripción   |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
-| -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | 
-| Urbanismo e infraestructuras   Direcciones postales | Terminado | *[Página web](http://vocab.linkeddata.es/datosabiertos/def/urbanismo-infraestructuras/direccion-postal/index-en.html)* *[Repositorio](https://github.com/opencitydata/commons-direccion-postal)*  |  *[Generar issue](https://github.com/opencitydata/commons-direccion-postal/issues)*   | Vocabulario para la representación de direcciones postales en España.  | esdir |  rdf+xml   html   turtle | CC-BY  | es en |
+   | Dominio |  Estado  |   Links   |   Issues   |   Descripción   |   Fecha Publicación |  Prefijo   | Formatos |   Liciencia | Idiomas   | 
+| -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | --------- | 
+| Urbanismo e infraestructuras   Direcciones postales | Terminado | *[Página web](http://vocab.linkeddata.es/datosabiertos/def/urbanismo-infraestructuras/direccion-postal/index-en.html)* *[Repositorio](https://github.com/opencitydata/commons-direccion-postal)*  |  *[Generar issue](https://github.com/opencitydata/commons-direccion-postal/issues)*   | Vocabulario para la representación de direcciones postales en España.  | 2019  | esdir |  rdf+xml   html   turtle | CC-BY  | es en |
  
 
 &nbsp;
@@ -173,9 +175,9 @@ permalink: /otros/
  <a href="https://github.com/opencitydata/sector-publico-territorio/blob/master/README.md"> README </a> 
    &nbsp;
    
-   | Dominio |  Estado  |   Links   |   Issues   |   Descripción   |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
-| -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- |
-| Sector público | Terminado | *[Página web](http://vocab.linkeddata.es/datosabiertos/def/sector-publico/territorio/index-en.html)* *[Repositorio](https://github.com/opencitydata/sector-publico-territorio)*  |  *[Generar issue](https://github.com/opencitydata/sector-publico-territorio/issues)*   | Este vocabulario se utiliza para la descripción de territorios en España (incluyendo divisiones administrativas y también otros conceptos que se utilizan normalmente pero no tienen entidad jurídica, como por ejemplo barrios).   | esadm|  rdf+xml   html   turtle | CC-BY  | es |
+   | Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
+| -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- |  --------- |
+| Sector público | Terminado | *[Página web](http://vocab.linkeddata.es/datosabiertos/def/sector-publico/territorio/index-en.html)* *[Repositorio](https://github.com/opencitydata/sector-publico-territorio)*  |  *[Generar issue](https://github.com/opencitydata/sector-publico-territorio/issues)*   | Este vocabulario se utiliza para la descripción de territorios en España (incluyendo divisiones administrativas y también otros conceptos que se utilizan normalmente pero no tienen entidad jurídica, como por ejemplo barrios).   |  2019  | esadm|  rdf+xml   html   turtle | CC-BY  | es |
  
 
 &nbsp;
@@ -224,9 +226,9 @@ permalink: /otros/
  <a href="https://github.com/opencitydata/transporte-transporte-publico-tarjeta/blob/master/README.md"> README </a> 
    &nbsp;
    
-   | Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  Formatos |   Liciencia | Idiomas   | 
-| -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | 
-| Transporte | Terminado | *[Página web](http://vocab.linkeddata.es/datosabiertos/def/transporte/transporte-publico/tarjeta/index-en.html)* *[Repositorio](https://github.com/opencitydata/transporte-transporte-publico-tarjeta)*  |  *[Generar issue](https://github.com/opencitydata/transporte-transporte-publico-tarjeta/issues)*   | Repositorio que contiene el material relacionado con el vocabulario que permite representar los datos de la validación de la tarjeta de transporte del sistema de transporte de Madrid.  |   rdf+xml   html   turtle | CC-BY  | en  |
+   | Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
+| -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | -------- | -------- | 
+| Transporte | Terminado | *[Página web](http://vocab.linkeddata.es/datosabiertos/def/transporte/transporte-publico/tarjeta/index-en.html)* *[Repositorio](https://github.com/opencitydata/transporte-transporte-publico-tarjeta)*  |  *[Generar issue](https://github.com/opencitydata/transporte-transporte-publico-tarjeta/issues)*   | Repositorio que contiene el material relacionado con el vocabulario que permite representar los datos de la validación de la tarjeta de transporte del sistema de transporte de Madrid.  | 2018 | transporte-publico |  rdf+xml   html   turtle | CC-BY  | en  |
 
 &nbsp;
 
@@ -236,9 +238,9 @@ permalink: /otros/
  <a href="https://github.com/opencitydata/transporte-trafico-tiempo-real/blob/master/README.md"> README </a> 
    &nbsp;
    
-   | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | Fecha Publicación |  Formatos |   Liciencia | Idiomas   | 
-| -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- |  -------- |  
-| Transporte | Terminado | *[Página web](http://vocab.linkeddata.es/datosabiertos/def/transporte/trafico-content/index.html)* *[Repositorio](https://github.com/opencitydata/transporte-trafico-tiempo-real)*  |  *[Generar issue](https://github.com/opencitydata/transporte-trafico-tiempo-real/issues)*   | Este repositorio contiene el material relacionado con el vocabulario que permite representar datos sobre la situación del tráfico en una ciudad.  | 18/05/2018  |  owl  json | CC-BY  | es  |
+   | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | Fecha Publicación |   Prefijo   |  Formatos |   Liciencia | Idiomas   | 
+| -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- |  -------- |  -------- |   
+| Transporte | Terminado | *[Página web](http://vocab.linkeddata.es/datosabiertos/def/transporte/trafico-content/index.html)* *[Repositorio](https://github.com/opencitydata/transporte-trafico-tiempo-real)*  |  *[Generar issue](https://github.com/opencitydata/transporte-trafico-tiempo-real/issues)*   | Este repositorio contiene el material relacionado con el vocabulario que permite representar datos sobre la situación del tráfico en una ciudad.  | 18/05/2018  | estraf | owl  json | CC-BY  | es  |
 
 &nbsp;
 
@@ -263,6 +265,8 @@ permalink: /otros/
  
 &nbsp;
 
+
+  
 
 <h1> VOCABULARIO PROTECCIÓN CIVIL</h1><a name="id14"></a>
 
